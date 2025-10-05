@@ -1,0 +1,235 @@
+{{Short description|Battery electric mid-size fastback sedan}}
+{{For|other models using the "Seal" nameplate|BYD Seal (disambiguation)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox electric vehicle
+| name = BYD Seal
+| image = 2022 BYD Seal.jpg
+| manufacturer = BYD Auto
+| model_code = EK
+| production = August 2022 – present
+| model_years = 
+| assembly = {{ubl
+  | China: Changzhou, Jiangsu; Xi'an, Shaanxi
+  }}
+| class = Mid-size car (D)
+| body_style = 4-door sedan
+| layout = {{unbulleted list
+  | Rear-motor, rear-wheel-drive
+  | Dual-motor, all-wheel-drive
+}}
+| platform = {{unbulleted list
+  | e-Platform 3.0
+  | e-Platform 3.0 Evo (China, 2024–present)
+  }}
+| related = {{ubl
+  | BYD Seal 06 GT
+  | BYD Song L EV
+  | BYD Sealion 7
+  | Denza N7
+  }}
+| motor = {{ubl
+  | AC permanent magnet synchronous (rear)
+  | Squirrel cage induction asynchronous motor (front, AWD)
+  }}
+| powerout = {{convert|150–390|kW|PS hp|0|abbr=on}}
+| battery = {{ubl
+  | 61.4&nbsp;kWh BYD Blade LFP
+  | 82.5&nbsp;kWh BYD Blade LFP
+  }}
+| electric_range = {{convert|460–570|km|mi|0|abbr=on}} (WLTP)
+| charging = {{ubl
+  | 7 kW single-phase (AC)
+  | 11 kW three-phase (AC) (Europe)
+  | 110–150 kW (DC)
+  }}
+| wheelbase = {{convert|2920|mm|in|1|abbr=on}}
+| length = {{convert|4800|mm|in|1|abbr=on}}
+| width = {{convert|1875|mm|in|1|abbr=on}}
+| height = {{convert|1460|mm|in|1|abbr=on}}
+| weight = {{convert|1885–2185|kg|lb|0|abbr=on}}
+| designer = Under the lead of Wolfgang Egger
+| predecessor = 
+| successor = 
+}}
+
+The '''BYD Seal''' ({{lang-zh|s=比亚迪海豹|t=|p=Bǐyàdí Hǎibào|c=}}) is a battery electric mid-size sedan produced by BYD Auto. It is the second car of BYD's "Ocean Series" after the smaller BYD Dolphin hatchback, and is built on BYD's e-Platform 3.0 and an 800-volt electrical platform.
+
+BYD also markets other models using the Seal nameplate, such as the Seal 07 DM-i, Seal 06 DM-i and Seal 05 DM-i plug-in hybrid sedans, Seal 06 EV electric sedan, Seal 06 GT electric hatchback and the Seal U SUV.
+
+==Overview==
+The BYD Seal was announced in China in May 2022, with deliveries in August 2022. Its design was previewed as the BYD Ocean-X Concept in September 2021. As part of the "Ocean Series" line of products, the Seal adopts many ocean-inspired design features. The exterior design features low hood, pop-out door handles, and long taillamp unit. The dashboard air vents of the Seal have a wavy pattern.
+
+The battery of the Seal is structural, giving the unibody chassis higher torsional rigidity (40,500{{Nbsp}}Nm/deg compared with an industry average of around 25,000) and a lower floor compared to other electric cars. The Seal has a drag coefficient of just 0.219{{Nbsp}}C<sub>d</sub>. BYD claims a 50:50 weight distribution between the front and the rear for the Performance AWD variant.
+
+The Seal is available with a rotatable 15.6-inch infotainment screen, 10.25-inch digital instrument panel, 12-speaker Dynaudio audio system, panoramic glass roof, quilted vegan leather upholstery, dual wireless smartphone chargers and heated and ventilated front seats. The Seal also has a 53-litre front trunk (frunk). Some models are equipped with Intelligent Torque Adaption Control (iTAC) system (a torque vectoring system) and adaptive dampers.
+
+== Powertrain ==
+The Seal is equipped with either a 61.4{{Nbsp}}kWh or an 82.5{{Nbsp}}kWh LFP blade battery pack, which can be charged by a 220{{Nbsp}}V AC power source at 7{{Nbsp}}kW (11{{Nbsp}}kW in Europe), or a DC fast charger at 110 or 150{{Nbsp}}kW (depending on the model). It has a CLTC driving range between {{convert|550|and|700|km}}. The battery pack reportedly can be fast charged from 30-80% in 30 minutes, and the car has vehicle-to-load capability.
+
+The Seal's top speed is limited to {{convert|180|km/h|0}}, and the 0–{{Convert|100.|km/h|mph|abbr=unit}} acceleration is claimed to be around 7.5 seconds for the standard models and 3.8 seconds for the AWD Performance model. BYD claims the Seal AWD energy consumption is {{cvt|12.7|kWh/100km}}.
+
+{| class="wikitable" style="text-align:left; font-size:80%; width="
+! rowspan="2" |Type
+! rowspan="2" width="10%" |Battery
+! rowspan="2" width="4%" |Layout
+! colspan="2" rowspan="2" width="8%" |Electric motor
+! rowspan="2" width="5%" |Power
+! rowspan="2" width="18%" |Torque
+! rowspan="2" width="8%" |{{convert|0–100|km/h|mph|0|abbr=on}} (claimed)
+! colspan="3" |Range (claimed)
+! rowspan="2" width="9%" |Calendar years
+! rowspan="2" |Note
+|-
+! width="5%" |CLTC
+! width="5%" |NEDC
+! width="5%" |WLTP
+|-
+!Standard Range
+|61.44{{Nbsp}}kWh LFP Blade battery
+| rowspan="3" |RWD
+| rowspan="3" |Rear
+| rowspan="3" |PMSM
+|{{convert|150|kW|hp|0|abbr=on}}
+|{{convert|310|Nm|kgm lbft||abbr=on|sigfig=3}}
+|7.5 seconds
+|{{convert|550|km|mi|0|abbr=on}}
+|{{convert|510|km|mi|0|abbr=on}}
+|{{convert|460|km|mi|0|abbr=on}}
+|2022–present
+|
+|-
+!700{{Nbsp}}km Prestige
+| rowspan="5" |82.56{{Nbsp}}kWh LFP Blade battery
+|{{convert|170|kW|hp|0|abbr=on}}
+|{{convert|330|Nm|kgm lbft||abbr=on|sigfig=3}}
+|N/A
+|{{convert|700|km|mi|0|abbr=on}}
+|N/A
+|N/A
+|2023–present
+|China only
+|-
+!Extended Range
+|{{convert|230|kW|hp|0|abbr=on}}
+|{{convert|360|Nm|kgm lbft||abbr=on|sigfig=3}}
+|5.9 seconds
+|{{convert|700|km|mi|0|abbr=on}}
+|{{convert|650|km|mi|0|abbr=on}}
+|{{convert|570|km|mi|0|abbr=on}}
+| rowspan="4" |2022–present
+|
+|-
+! rowspan="3" |Performance
+| rowspan="3" |AWD
+|Front
+|Squirrel cage induction asynchronous motor
+|{{convert|160|kW|hp|0|abbr=on}}
+|{{convert|310|Nm|kgm lbft||abbr=on|sigfig=3}}
+| rowspan="3" |3.8 seconds
+| rowspan="3" |{{convert|650|km|mi|0|abbr=on}}
+| rowspan="3" |{{convert|580|km|mi|0|abbr=on}}
+| rowspan="3" |{{convert|520|km|mi|0|abbr=on}}
+| rowspan="3" |
+|-
+|Rear
+|PMSM
+|{{convert|230|kW|hp|0|abbr=on}}
+|{{convert|360|Nm|kgm lbft||abbr=on|sigfig=3}}
+|-
+| colspan="2" |Combined:
+|{{convert|390|kW|hp|0|abbr=on}}
+|{{convert|670|Nm|kgm lbft||abbr=on|sigfig=3}}
+|-
+! colspan="13" |References:
+|}
+
+== Markets ==
+=== China ===
+The Seal went on sale in China in July 2022, with deliveries in the following month.  There were four models of powertrains offered in China, starting with a standard "Elite" model (精英型) powered by a {{convert|150|kW|PS hp|0|abbr=on}} single-motor rear wheel drive (RWD), "Prestige" model (尊贵型) producing {{cvt|170|kW|PS hp|0|abbr=on}} with single-motor RWD, "Performance" model (性能型) powered by a single {{convert|230|kW|PS hp|0|abbr=on}} RWD motor, and the "4WD Performance" model (四驱性能型) with a {{convert|390|kW|PS hp|0|abbr=on}} dual-motor ({{convert|160|kW|PS hp|0|abbr=on}} + {{convert|230|kW|PS hp|0|abbr=on}}) all wheel drive system.
+
+In May 2023, BYD introduced the Seal Champion Edition in China. The version introduces lower pricing, with adjusted and upgraded equipment list such as leather seats, rear privacy glass, an adjustable cup holder in the armrest box. It also received an additional "700{{Nbsp}}km Prestige" trim level with {{convert|700|km||}} of range. In March 2024, BYD further dropped the price of the Seal by 5 percent by introducing the Seal Honor Edition.
+
+In August 2024, BYD introduced the refreshed Seal for the Chinese market. Initially it would be renamed to the Seal 07 EV, but BYD abandoned the rebrand after receiving feedbacks from consumers. The updated model is equipped with new wheels, a roof-mounted LiDAR produced by RoboSense, and the "Build Your Dreams" badge on the rear was replaced with a BYD logo with a red backlight.
+
+=== Europe ===
+The Seal became available in several European countries in September 2023, occupying the D-segment.
+
+=== Hong Kong ===
+The Seal went on sale in Hong Kong in October 2023. Available trim levels match the Thai and Singaporean market Seal, which are Dynamic RWD, Premium RWD and Performance AWD.
+
+=== Latin America ===
+
+==== Brazil ====
+The Seal went on sale in Brazil in August 2023. The only variant available is the dual-motor AWD version with an output of {{convert|390|kW|PS hp|0|abbr=on}}.
+
+==== Mexico ====
+The Seal was launched in Mexico on 29 November 2023, as the fifth BYD model to be marketed in Mexico. It is available with either rear-wheel drive (61.44 kWh) and four-wheel drive (82.56 kWh) variants.
+
+=== South Africa ===
+The Seal was launched in South Africa on 4 October 2024, with two variants: Lux EXT RWD and Lux Performance AWD. At the time of its introduction, the Seal became the cheapest battery electric sedan on sale in South Africa.
+
+=== Southeast Asia ===
+The Seal went on sale in Thailand and Singapore in September 2023. In both countries, the available trim levels are Dynamic RWD, Premium RWD and Performance AWD. The former is equipped with a 61.4{{Nbsp}}kWh LFP Blade battery which powers a single {{convert|150|kW|PS hp|0|abbr=on}} rear motor. The Premium RWD uses a larger 82.5{{Nbsp}}kWh LFP battery, powering a single {{convert|230|kW|PS hp|0|abbr=on}} rear motor. The Performance AWD (badged '3.8s' denoting the 0–{{convert|100|km/h|mph|0|abbr=on}} acceleration time of 3.8 seconds) uses a dual-motor setup with a maximum output of {{convert|390|kW|PS hp|0|abbr=on}}, with the same 82.5{{Nbsp}}kWh LFP battery.
+
+The Seal was introduced in Indonesia in January 2024 alongside the Atto 3 and Dolphin, as part of BYD's entry to the Indonesian passenger car market. Pricing was announced at the 31st Indonesia International Motor Show in February 2024. At launch, it was available with three variants: Dynamic, Premium and Performance AWD.
+
+The Seal was introduced in Malaysia in February 2024. It is available in two trim levels, which are Premium RWD and Performance AWD. The Dynamic RWD variant was added in September 2024 using the Standard Range powertrain. In August 2025, the Seal line-up in Malaysia was updated and the entry-level Dynamic RWD variant was discontinued.
+
+The Seal has been launched in Brunei in 15 June 2024 and the car was offered only in the Performance AWD trim.
+
+The Seal was introduced in Vietnam on 18 July 2024 alongside the Atto 3 and Dolphin, as part of BYD's entry to Vietnam, and is available in Advance and Performance variants.
+
+The Seal was introduced in the Philippines on 25 October 2024 in a sole Performance AWD variant. The Advanced RWD variant was added in January 2025.
+{{clear}}
+
+== Safety ==
+{{Euro NCAP|year=2023|description=BYD Seal Design RWD (LHD)|adult_points=35.8|adult_percent=89|child_points=43|child_percent=87|pedestrian_percent=82|pedestrian_points=51.7|safety_points=13.8|safety_percent=76|reference=https://cdn.euroncap.com/media/82667/euroncap-2023-byd-seal-datasheet.pdf|reference_name=BYD Seal Test Results|overall_stars=5}}
+
+== Awards ==
+In December 2024, the BYD Seal became the first Chinese-made car shortlisted in the top 10 for 2024-2025 Japan Car of the Year.
+
+In 2024, the BYD Seal was ranked in the top 3 of the 2024 World Car of the Year Award.
+
+In March 2025, BYD Seal won the Japan EV of the Year 2024 award.
+
+== Sales ==
+{| class="wikitable"
+! rowspan="2" |Year
+! colspan="6" |Sales
+! rowspan="2" |Total production
+|-
+!China
+!Australia
+!Thailand
+!Brazil
+!Indonesia
+!Malaysia
+|-
+|2022
+|51,200
+|
+|
+|
+|
+|
+|51,200
+|-
+|2023
+|62,079
+|471
+|1,810
+|1,040
+|
+|
+|84,277
+|-
+|2024
+|17,528
+|6,393
+|5,156
+|3,524
+|4,828
+|2,958
+|60,607
+|}
+

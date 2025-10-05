@@ -1,0 +1,253 @@
+{{Use dmy dates|date=November 2022}}
+{{Use British English|date=September 2024}}
+{{Short description|Battery electric mid-size crossover SUV}}
+{{Infobox automobile
+| name = XPeng G6
+| image = XPeng G6 018 (cropped).jpg
+| caption =
+| manufacturer = XPeng
+| production = June 2023 – present
+| assembly = {{ubl
+  | China: Guangzhou, Guangdong
+  | Indonesia: Purwakarta, West Java ({{abbr|HIM|Handal Indonesia Motor}})
+  | Austria: Graz (Magna Steyr)
+}}
+| class = Mid-size crossover SUV
+| body_style = 5-door coupe SUV
+| layout = {{unbulleted list
+  | Rear-motor, rear-wheel drive
+  | Dual-motor, all-wheel-drive
+}}
+| platform = Smart Electric Platform Architecture (SEPA) 2.0
+| motor = Permanent magnet synchronous
+| powerout = {{unbulleted list   | {{convert|190.-218|kW|hp PS|abbr=on}} | {{convert|358|kW|hp PS|abbr=on}} (AWD) }}
+| battery = {{unbulleted list
+  | 66 kWh CALB LFP
+  | 68.5 kWh CALB LFP
+  | 80.8 kWh CALB LFP (Thailand)
+  | 80.8 kWh CALB NMC
+  | 87.5 kWh CALB NMC
+}}
+| electric_range = {{convert|580.-755|km|mi|abbr=on}}
+| charging = {{ubl
+  | 11 kW (AC)
+  | 215–280 kW (DC)
+}}
+| wheelbase = {{convert|2890|mm|in|1|abbr=on}}
+| length = {{convert|4753|mm|in|1|abbr=on}}
+| width = {{convert|1920|mm|in|1|abbr=on}}
+| height = {{convert|1650|mm|in|1|abbr=on}}
+| weight = {{convert|1995-2116|kg|lb|0|abbr=on}}
+| sp = uk
+}}
+
+The '''XPeng G6''' ({{lang-zh|c=小鹏G6|p=Xiǎopéng G6}}) is a battery electric mid-size crossover SUV manufactured by Chinese electric car company XPeng. The G6 was unveiled in April 2023 during Auto Shanghai and it was launched in China in June.
+
+== History ==
+On 18 April 2023, at Auto Shanghai, the world premiere of the fifth model in the portfolio of XPeng took place. The G6 is positioned between the compact G3i and the flagship G9 as a mid-size crossover.
+
+The G6 features a minimalist design characteristic of the company's other products, highlighted by a sleek silhouette and coupe SUV proportions. Its front end is distinguished by double-row headlights, formed by two closely spaced LED strips. The Performance edition includes an opening spoiler at the lower edge of the body, which, combined with the vehicle's aerodynamic shape, is designed to optimize airflow, allowing for a drag coefficient as low as 0.248 C<sub>d</sub>. The G6's design was developed in collaboration with renowned Chinese science fiction writer Liu Cixin.{{Dead link|date=August 2025}}
+
+The interior features a 10.2-inch digital instrument cluster integrated into the dashboard and a 14.96-inch standing infotainment touchscreen both powered by a Qualcomm Snapdragon 8155P and has integrated HVAC controls, allowing for a nearly buttonless dashboard. The centre console features dual 50-watt cooled wireless charging pads and two circular cupholders ahead of an armrest. The trunk has a capacity of {{Convert|571|L|cuft}}, expanding to {{Convert|1374|L|cuft}} with the rear seats folded down.
+
+During the premiere, XPeng claimed that the G6 features fast-charging capabilities allowing users to add up to {{Convert|300|km|mi}} of range in 10 minutes, made possible by the new generation modular Smart Electric Platform Architecture (SEPA) 2.0 platform. It uses a 800-volt electrical architecture and utilizes silicon carbide (SiC) semiconductors in its power electronics.
+
+The G6 is available with XPeng's XNGP ADAS system, which has a 31-sensor suite including 2 LiDARs, 5 mmWave radars, 11 cameras, and 12 ultrasonic sensors, powered by dual Nvidia Orin X SoCs.
+
+The G6 was developed for sale in global markets. Deliveries of the first units began on 29 June 2023 in China, with selected Western European markets to follow in 2024.
+
+
+
+=== 2025 refresh ===
+{{Multiple image
+| align             = right
+| direction         = vertical
+| width             = 240
+| image1            = XPeng G6 (2025) IAA 2025 DSC 2057.jpg
+| image2            = XPeng G6 (2025) IAA 2025 DSC 1802.jpg
+| caption2          = 2025 XPeng G6
+| caption1          =
+}}
+
+The 2025 model year G6 was launched in China in March 2025, featuring a total of 81 changes. In China, the previously optional assisted autonomous driving system is now standard on all models.
+
+It features updated styling, including a full-width front light bar, new wheel designs, a fixed ducktail spoiler for improved rear visibility, darker taillights, and a revised plastic fender trim. It also gains a revised dashboard design, with a standing 10.25-inch instrument cluster and a larger 15.6-inch infotainment display powered by a Qualcomm Snapdragon 8295P SoC, along with upgraded materials throughout the cabin. It also has a 9-inch digital centre rear view mirror along with heating, ventilation, and massaging functions for the front row seats. The trunk has a capacity of {{Convert|647|L|cuft}}, expanding to {{Convert|1752|L|cuft}} with the rear seats folded down, and the centre armrest storage area has a volume of {{Convert|8.9|L|cuft}}, which XPeng claims are all best-in-class capacities.
+
+The model features an updated intelligent driving system called Turing AI which became standard on all models in China. It was first seen in the P7+, which notably lacks LiDAR in its sensor suite and relies only on mmWave radars and cameras, and is powered by two Nvidia Drive Orin SoCs.<!-- It does NOT yet use their "Turing AI" self-developed chip announced in Nov '24, only their confusingly named "Turing AI intelligent driving" system, which is an updated version of the previous "AI Hawk" or "XNGP" systems. As of mid-March '25 --> It is capable of assisted autonomous driving on all public roads, and like the P7+ the vehicle has turquoise LED lights placed on the exterior to notify other road users while the system is enabled.
+
+The vehicle features new batteries capable of 5C charging, allowing it to charge from 10-80% in 12 minutes. According to XPeng, the battery packs' sides can withstand 80 tons of pressure in a collision, the bottom can withstand a 2,000 joule impact, and the top can withstand {{Convert|1000|C|F|-2|abbr=unit}} temperatures.
+
+Other changes include a softer suspension with lengthened travel, retuned steering, and improved soundproofing materials including the addition of double-glazed windows.
+
+== Powertrain ==
+The G6 is available with two powertrain variants. The basic version is equipped with one rear electric motor producing {{convert|218|kW|hp PS|abbr=on}}, while the top-of-the-line model adds an additional {{convert|140.|kW|hp PS|abbr=on}} front motor for a total of {{convert|358|kW|hp PS|abbr=on}}. The basic battery is a LFP pack with a capacity of 66{{Nbsp}}kWh, while long range models uses a 87.5{{Nbsp}}kWh NMC battery, both produced by CALB. The batteries are capable of 3C charging, allowing for a 10-80% charge time of 20 minutes.
+
+Since 2025, the updated G6 is equipped with either a 68.5{{Nbsp}}kWh LFP or a 80.8{{Nbsp}}kWh NMC battery, both again supplied by CALB. Both packs are capable 5C DC fast charging, with peak rates of 382{{Nbsp}}kW and 451{{Nbsp}}kW for the smaller and larger packs, respectively. This allows both packs to charge from 10-80% in 12 minutes, or within 15.5 minutes in {{Convert|-30|C|F|abbr=unit}} ambient conditions. At launch, only the rear-wheel drive configuration is offered, with the motor maintaining power and receiving a slight torque bump up to {{convert|450.|Nm|lbft||abbr=on|sigfig=3}}.
+
+{| class="wikitable" style="text-align:left; font-size:80%; width="
+! rowspan="2" |Model
+! rowspan="2" |Calendar year
+! rowspan="2" |Battery
+! rowspan="2" |Motor
+! rowspan="2" |Power
+! rowspan="2" |Torque
+! rowspan="2" |0–{{convert|100.|km/h|mph|abbr=on}}
+! colspan="3" |Range
+! rowspan="2" |10-80% DCFC time
+! rowspan="2" |Weight
+|-
+! width="5%" |CLTC
+! width="5%" |NEDC
+! width="5%" |WLTP
+|-
+|Standard Range (global)
+| rowspan="2" |2024–present
+|66 kWh CALB LFP
+| rowspan="4" |Rear
+|{{convert|190|kW|hp PS|0|abbr=on}}
+| rowspan="5" |{{convert|440.|Nm|lbft||abbr=on|sigfig=3}}
+|6.6 sec
+|{{Em dash}}
+|{{Convert|505|km|mi|abbr=unit}}
+|{{convert|435|km|mi|0|abbr=on}}
+| rowspan="7" |20 min
+| rowspan="2" |{{convert|2025|kg|lb|abbr=on}}
+|-
+|Long Range (global)
+|87.5 kWh CALB NMC
+|{{convert|210|kW|hp PS|0|abbr=on}}
+|6.2 sec
+|{{Em dash}}
+|{{Convert|625|km|mi|abbr=unit}}
+|{{convert|570|km|mi|0|abbr=on}}
+|-
+|Long Range (China)
+| rowspan="2" |2023–2025
+|66 kWh CALB LFP
+| rowspan="3" |{{convert|218|kW|hp PS|abbr=on}}
+|6.6 sec
+|{{convert|580|km|mi|0|abbr=on}}
+|{{Em dash}}
+|{{Em dash}}
+| rowspan="2" |{{convert|1995|kg|lb|abbr=on}}
+|-
+|Ultra Long Range (China)
+| rowspan="4" |87.5 kWh CALB NMC
+|5.9 sec
+|{{convert|755|km|mi|0|abbr=on}}
+|{{Em dash}}
+|{{Em dash}}
+|-
+| rowspan="3" |AWD Max Performance
+| rowspan="3" |2023–present
+|Rear
+| rowspan="3" |3.9 sec
+| rowspan="3" |{{convert|700.|km|mi|abbr=on}}
+| rowspan="3" |{{convert|575.|km|mi|abbr=on}}
+| rowspan="3" |{{convert|550.|km|mi|0|abbr=on}}
+| rowspan="3" |{{convert|2095|kg|lb|abbr=on}}
+|-
+|Front
+|{{convert|140.|kW|hp PS|abbr=on}}
+|{{convert|220.|Nm|lbft|abbr=on}}
+|-
+|Combined:
+|{{convert|358|kW|hp PS|0|abbr=on}}
+|{{convert|660.|Nm|lbft|abbr=on}}
+|-
+! colspan="11" |2025 refresh
+|-
+|Long Range (China)
+| rowspan="2" |2025–present
+|68.5 kWh CALB LFP
+| rowspan="2" |Rear
+| rowspan="2" |{{convert|218|kW|hp PS|abbr=on}}
+| rowspan="2" |{{convert|450.|Nm|lbft||abbr=on|sigfig=3}}
+|6.4 sec
+|{{convert|625|km|mi|0|abbr=on}}
+|{{Em dash}}
+|{{Em dash}}
+| rowspan="2" |12 min
+|{{convert|2030.|kg|lb|abbr=on}}
+|-
+|Ultra Long Range (China)
+|80.8 kWh CALB NMC
+|6.3 sec
+|{{convert|725|km|mi|0|abbr=on}}
+|{{Em dash}}
+|{{Em dash}}
+|{{convert|2116|kg|lb|abbr=on}}
+|-
+| rowspan="1" |Long Range (Thailand)
+| rowspan="4" |2025–present
+| rowspan="4" |80.8 kWh CALB LFP
+| rowspan="2" |Rear
+| rowspan="2" |{{convert|218|kW|hp PS|abbr=on}}
+| rowspan="2" |{{convert|450.|Nm|lbft||abbr=on|sigfig=3}}
+|6.7 sec
+|{{Em dash}}
+|{{convert|625|km|mi|0|abbr=on}}
+|{{convert|525.|km|mi|0|abbr=on}}
+| rowspan="2" |12 min
+|{{convert|2030.|kg|lb|abbr=on}}
+|-
+| rowspan="3" |AWD Performance (Thailand)
+| rowspan="3" |4.13 sec
+| rowspan="3" |{{Em dash}}
+| rowspan="3" |{{convert|575.|km|mi|abbr=on}}
+| rowspan="3" |{{convert|510.|km|mi|0|abbr=on}}
+| rowspan="3" |{{convert|2095|kg|lb|abbr=on}}
+|-
+|Front
+|{{convert|140.|kW|hp PS|abbr=on}}
+|{{convert|220.|Nm|lbft|abbr=on}}
+|-
+|Combined:
+|{{convert|358|kW|hp PS|0|abbr=on}}
+|{{convert|660.|Nm|lbft|abbr=on}}
+|-
+! colspan="11" |References: 
+|}
+
+== Markets ==
+=== Australia ===
+The G6 was launched in Australia on 30 September 2024 as XPeng's first model available in the country, with deliveries starting in October 2024. It comes in two rear-wheel-drive variants: Standard Range and Long Range.
+
+=== Europe ===
+The G6 was launched in Europe in June 2025, alongside the XPeng G9, marking XPeng's entry into the European market, with order books opening in July 2025. In Europe, the vehicle is offered in Standard Range and Long Range rear-wheel drive models, with the all-wheel drive Performance model becoming available at a later date.
+
+=== Hong Kong ===
+On 17 May 2024, the G6 made its official debut in Hong Kong alongside the XPeng X9. It has support for Cantonese voice recognition, and deliveries commenced in mid-2024. It is available with two rear-wheel drive variants: 580 Pro Standard Range and 755 Pro Long Range.
+
+=== Indonesia ===
+The G6 Pro was launched in Indonesia on 23 July 2025 at the 32nd Gaikindo Indonesia International Auto Show, alongside the XPeng X9. Assembled locally in Indonesia, the vehicle is offered in two variants: RWD Long Range and AWD Performance.
+
+=== Malaysia ===
+The G6 was launched in Malaysia on 27 August 2024, as the first XPeng model sold in Malaysia. It is available with two variants: 580 Pro and 755 Pro.
+
+=== Singapore ===
+The G6 was launched in Singapore on 25 July 2024, following the opening of first XPeng showroom in Singapore in November 2024. It is available with two rear-wheel drive variants: Standard Range and Long Range.
+
+=== Thailand ===
+The G6 was launched in Thailand on 21 August 2024, as the first XPeng model sold in Thailand. It is available with two rear-wheel drive variants: Standard Range and Long Range. The 2025 model year G6 update was launched in Thailand on 21 August 2025, with two variants: Long Range and Performance AWD.
+
+== Safety ==
+{{Euro NCAP|year=2024|description=XPeng G6 Long Range (LHD)|reference=https://www.euroncap.com/en/results/xpeng/g6/52567|reference_name=Xpeng G6 2024 Test Results|overall_stars=5|adult_points=35.5|adult_percent=88|child_points=42|child_percent=85|pedestrian_points=51.5|pedestrian_percent=75|safety_points=13.6|safety_percent=75}}
+
+== Sales ==
+{| class="wikitable"
+!Year
+!China
+!Total production
+|-
+|2023
+|44,545
+|44,545
+|-
+|2024
+|42,805
+|57,093
+|}
+
+After the 2025 update for the G6 was announced on 13 March 2025, XPeng received over 5,000 non-refundable orders for the model within seven minutes of availability.
+

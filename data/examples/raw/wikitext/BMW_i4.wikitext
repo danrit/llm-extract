@@ -1,0 +1,203 @@
+{{Short description|Battery electric compact executive car}}
+{{Infobox automobile
+| name = BMW i4
+| image = BMW i4 IMG 6695.jpg
+| caption =
+| manufacturer = BMW
+| model_code = G26 BEV
+| production = October 2021 – present
+| assembly = {{unbulleted list
+  | Germany: Munich
+  }}
+| designer = Seungmo Lim (concept & production exterior)<br />Chris Lee (interior design)
+| class = Compact executive car (D)
+| body_style = 5-door liftback/fastback sedan
+| layout = {{unbulleted list
+  | Rear-motor, rear-wheel drive (eDrive)
+  | Dual-motor, all-wheel drive (xDrive)
+  }}
+| platform = Cluster Architecture (CLAR)
+| transmission = Single-speed with fixed ratio
+| wheelbase = {{convert|2856|mm|in|1|abbr=on}}
+| length = {{convert|4785|mm|in|1|abbr=on}}
+| width = {{convert|1852|mm|in|1|abbr=on}}
+| height = {{convert|1448|mm|in|1|abbr=on}}
+| weight = {{Convert|2125|-|2290|kg|0|abbr=on}}
+| related = {{unbulleted list
+  | BMW 4 Series Gran Coupé (G26)
+  | BMW i3 (G28)
+}}
+| motor = Front and rear motor combined output, 3-phase electrically excited synchronous motor
+| powerout = {{cvt|200|–|400|kW|PS hp|0|abbr=on}}
+| battery = {{unbulleted list
+  | lithium-ion
+  | NMC chemistry
+  | 400V class (430V nominal)
+  | 83.9 kWh capacity
+  }}
+| electric_range = {{unbulleted list
+  | Maximum {{convert|580|km|miles|0|abbr=on}} NEDC
+  | Maximum {{convert|590|km|miles|0|abbr=on}} WLTP
+  }}
+| charging = {{unbulleted list
+  | DC 205 kW
+  | AC 11 kW
+ }}
+| model_years = 2022–present
+}}
+
+The '''BMW i4''' (model code '''G26''') is a battery electric compact executive car produced by BMW since 2021. It has a five-door liftback body style and is marketed as a four-door coupé. The initial concept version, named BMW i Vision Dynamics, debuted at the 2017 Frankfurt Motor Show. It is the fifth BMW i sub-brand model, and is sold in several variants at different performance levels, including the first battery-electric variant by BMW's motorsport division. The production version was revealed in March 2021 and went on sale in November of the same year as a 2022 model.
+
+==Development and launch==
+An investment of about {{euro|200 million}} in the Munich plant was made in preparation for the 2021 series production as the G26 BMW i4 is built on the same assembly line as cars with combustion engines and plug-in hybrids. While 90% of the existing production equipment in the body shop were incorporated into the production process of the i4, several new systems were required mainly for the floor assembly and rear structure as the electric drive and high-voltage battery are different from conventional architectures. The plant was closed for six weeks in the summer of 2020 to convert more than 1000 robots in the body shop and assembly area to prepare it for the assembly of the i4. The electric motor is assembled in Dingolfing. The i4 was revealed fully production-ready in March 2021, three months ahead of schedule, and went on sale in November 2021.
+
+Over an ownership period of {{cvt|125000|mi|-4|disp=flip}}, BMW stated at launch that the eDrive40 has a 45 percent lower global warming potential than that of a comparable diesel G20 3 Series or G22 4 Series model. Furthermore, BMW enhanced the sustainability of its supply chain and increased its use of recycled materials for the i4, cutting the production emissions by 18 percent.
+
+== Specifications ==
+
+=== Body and chassis ===
+
+The production model is based on the modular CLAR platform to keep costs low and volume-production attainable. Although it is described as a battery-powered G20 3 Series, the model uses the bodyshell design of the G26 4 Series Gran Coupé. The i4 has a MacPherson strut front suspension and multi-link rear suspension with rear air suspension as standard (the M50 adds adaptive M dampers). It has a damping system designed to reduce “dipping movements of the body” under acceleration or braking, with an “actuator-related wheel slip limitation” system to better boost traction and stability.
+
+The i4 has an almost completely flat underbody, resulting in a low drag coefficient of 0.24 for the eDrive40 and 0.25 for the M50. Compared to the G20 3 Series, it has {{convert|26|mm|in|1|abbr=on}} wider front tracks and {{convert|13|mm|in|1|abbr=on}} wider rear tracks. Due to the low floor location of the battery pack for better agility, the M50's center of gravity is {{convert|34|mm|in|1|abbr=on}} lower than the G20 3 Series and {{convert|53|mm|in|1|abbr=on}} lower in the eDrive40. An active air flap control at the bottom of the grille can be adjusted in ten stages, allowing cooling air to be supplied to the drive system, battery, brakes, and air conditioning system in precise quantities. The eDrive40 has a 45:55 weight distribution, while it is 48:52 for the M50.
+
+=== Powertrain ===
+The electric drive component of the i4, its charging unit and high-voltage battery are all developed in-house by the BMW Group, forming the fifth-generation eDrive system. A notable technical feature of the i4's powertrain concerns its packaging. The electric motor, transmission and power electronics are all contained in a single component, which allows for a higher efficiency of energy conversion. BMW also focused on reducing the number of rare earth materials in the battery and electric motor system. None are used to construct the motor (efficiency factor of 93 percent), while the battery uses two thirds less cobalt than before. The motors themselves are positioned in the axles, and the axles also house the one-speed transmissions.
+
+The M50 can recuperate braking energy at a max rate of 195&nbsp;kW and 116&nbsp;kW for the eDrive40. The three adjustable regenerative braking levels includes a robust setting for one-pedal driving, while the fourth adaptive mode uses GPS data and driver-assistance systems to adjust the amount of regenerative braking. The eDrive40 is a rear-wheel drive model, where power comes from a single {{cvt|250|kW|PS hp|0|abbr=on}} electrically excited synchronous motor that is fitted to the rear axle. The M50 runs predominantly in rear-wheel drive mode, conserving energy and thus increasing range. The larger {{cvt|230|kW|PS hp|0|abbr=on}} electric motor resides at the rear, while the smaller {{cvt|190|kW|PS hp|0|abbr=on}} only kicks in when the front tires require power. Using a pre-warmed battery, consumption can be 20&nbsp;kWh/100&nbsp;km driving in winter mountains.
+
+=== Battery ===
+The {{convert|108|mm|in|1|abbr=on}} tall battery in the i4 is made up of four modules with 72 cells each and three 12-cell modules, all are located in the floorpan in a process that's claimed to add rigidity to the overall structure. The battery enclosure is directly connected to the front axle subframe, while the battery pack is bolted to the floor assembly with 22 bolts. There is also an additional section of the battery housed within the center tunnel, usually occupied by a driveshaft. The battery voltage is between 400 volt (empty) and 477 volt (full), with a nominal voltage of 430 volt. The i4's battery has 40 percent more energy density than the 120 Ah version of the BMW i3.
+
+The fifth-generation eDrive system supports up to 205&nbsp;kW DC fast charging. The battery pack can be charged to 80 percent in 31 minutes or ten minutes for a range of {{cvt|164|km|mi|0|abbr=on}} in the eDrive40, and {{cvt|140|km|mi|0|abbr=on}} in the M50. Using a Level 2 wall box with AC power and a charging rate of 11&nbsp;kW, the i4 can recharge its battery from 0–100 percent in under eight hours.
+
+The i4 features an integrated heating and cooling system that takes into account various factors such as ambient temperature and mid-journey fast-charging sessions to precondition the temperature of the battery pack. It does this automatically via high efficiency pumps that can increase range efficiency by up to 31 percent when driving in urban traffic. Without pre-warming, the battery may be restricted to 75&nbsp;kW charging at cold temperatures.
+
+
+== Equipment ==
+
+
+All models feature the iDrive 8 infotainment system, including an updated voice-controlled assistant and gesture control system, while the iDrive controller is also retained on the centre console. The interface is sourced through the BMW Curved Display that combines the {{cvt|12.3|in|disp=flip}} instrument cluster and {{cvt|14.9|in|disp=flip}} infotainment system with a redesigned touch interface within a single unit. The iDrive 8 system features Apple CarPlay and Android Auto capability, compatible with 5G mobile technology, while third-party applications for communication and music streaming are also integrated within the system. The over-the-air functionality is increased and incorporate updates to driving functions, such as driving assistance and semi-autonomous features. A number of ambient lighting elements are placed throughout the cabin and change color depending on the driving mode. The iDrive 8 system is integrated with the new My BMW App for smartphones.
+
+Standard equipment includes a sports steering wheel with multifunction buttons and sports seats, three-zone climate control, acoustic glazing for the windshield, pre-heating and pre-conditioning, and an electrically-operated tailgate. Optional equipment includes seat heating and ventilation, M Sport Package Pro, ambient lighting and a glass slide/tilt sunroof. An M Carbon exterior package and M Performance Parts can also be ordered as an option. The i4 offer a 10-speaker audio system with a 205-watt amplifier as standard, while a Harman Kardon system with 16 speakers with a digital seven-channel amplifier is an optional equipment. Full LED headlights and tail lights are standard, though the former can be upgraded to adaptive units with BMW Laserlight and BMW Selective Beam function. It is available in wheel sizes from 17 inch to 20 inch with wider rear tires as standard.
+
+The i4 comes with an acoustic pedestrian protection system, which is an artificially generated sound (including optional false engine sounds) produced by the exterior speakers that is active when driving up to {{cvt|21|kph|mph|0|abbr=on}} in Europe or {{cvt|31|kph|mph|0|abbr=on}} in the US. Furthermore, it has up to 40 driver assistance systems, enabling Level 2 semi autonomous driving. Standard driver assistance systems including lane departure warning, intelligent speed adaptation, collision warning with braking intervention, front and rear parking sensors, and a backup camera. A Driving Assistance Professional package is optional, which adds adaptive cruise control with stop and go, lane-keep assist with side collision avoidance, and rear automatic emergency braking. The optional parking assistant system displays a three-dimensional 360-degree view of the car and its surroundings. The maximum towing capacity is {{convert|1600|kg|lb}}, with an additional {{convert|75|kg|lb}} roof load possible.
+
+M Performance parts can be fitted 35-40 models in the M Sport Trim and all M50 models. These include carbon fibre mirrors, spoiler, kidney grille trim, splitter, diffuser, rear bumper trim, front vents and gear lever, M wheels, interior alcantara, a sport steering wheel and sport seats.
+
+== Models ==
+Models introduced at launch include the high-performance M50 with a dual-motor xDrive all-wheel system, the first battery-electric vehicle by BMW's motorsport division, and eDrive40 with a single-motor, rear-wheel-drive layout. The base RWD model eDrive35, featuring the same battery and electric motor as the China-exclusive BMW i3 eDrive35L, was added in August 2022. The xDrive40, a mid-range AWD model positioned below the M Performance M50, was announced in May 2023 for North America.
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|+Specifications
+!Model
+! eDrive35
+! eDrive40
+!xDrive40
+! M50
+|-
+!Powertrain
+! colspan="2" |Rear-motor rear-wheel drive (RWD)
+! colspan="2" |Dual-motor all-wheel drive (xDrive)
+|-
+!Availability
+| August 2022–
+|November 2021–
+|May 2023–
+|November 2021–
+|-
+!Battery capacity (usable)
+| 70.2 kWh (66 kWh)
+| colspan="3" | 83.9 kWh (81.5 kWh)
+|-
+!Range
+| {{cvt|490|km|mi|0|abbr=on}}<sup>WLTP</sup> {{cvt|260|mi|km|0|abbr=on}}<sup>EPA</sup>
+| {{cvt|493-580|km|mi|0|abbr=on}}<sup>NEDC</sup><br> {{cvt|493-590|km|mi|0|abbr=on}}<sup>WLTP</sup><br>{{cvt|282-301|mi|km|0|abbr=on}}<sup>EPA</sup>
+|{{cvt|282-307|mi|km|0|abbr=on}}<sup>EPA</sup>
+| {{cvt|416-465|km|mi|0|abbr=on}}<sup>NEDC</sup><br> {{cvt|416-510|km|mi|0|abbr=on}}<sup>WLTP</sup><br>{{cvt|227-270|mi|km|0|abbr=on}}<sup>EPA</sup>
+|-
+!Motor
+| colspan="2" |3-phase electrically excited synchronous electric motor (ESM) rear
+| colspan="2" |3-phase electrically excited synchronous electric motor (ESM) front and rear
+|-
+!Power (peak)
+|{{cvt|210|kW|PS hp|0|abbr=on}}
+|{{cvt|250|kW|PS hp|0|abbr=on}}
+|{{cvt|295|kW|PS hp|0|abbr=on}}
+|{{cvt|400|kW|PS hp|0|abbr=on}}
+|-
+!Torque (peak)
+| {{cvt|400|Nm|lbft|0|abbr=on}}
+| {{cvt|430|Nm|lbft|0|abbr=on}}
+|{{cvt|600|Nm|lbft|0|abbr=on}}
+| {{cvt|795|Nm|lbft|0|abbr=on}}
+|-
+!Acceleration<br />0–{{convert|100|km/h|mph|0|abbr=on}}
+| 5.8 seconds
+| 5.7 seconds
+|4.9 seconds
+| 3.9 seconds
+|-
+!Top Speed
+| TBA
+|{{cvt|190|kph|mph|0|abbr=on}}
+|TBA
+| {{cvt|225|kph|mph|0|abbr=on}}
+|-
+!DC Fast Charge (DCFC) Speed
+| Up to DC 180&nbsp;kW via CCS Combo 2
+| colspan="3" |Up to DC 200&nbsp;kW via CCS Combo 2
+|-
+!AC On-board Charge Speed
+| colspan="4" | AC 11&nbsp;kW via J1772 (North America) or 3-phase AC 11&nbsp;kW via Type 2 (elsewhere)
+|-
+!Charging duration
+|100%: 420 minutes (AC 3-phase wall box/charging station 11.0 kW); 80%: 32 minutes (DC charging station 180.0 kW)
+|100%: 495 minutes (AC 3-phase wall box/charging station 11.0 kW); 80%: 31 minutes (DC charging station 205.0 kW)
+|100%: 495 minutes (AC 3-phase wall box/charging station 11.0 kW); 80%: 31 minutes (DC charging station 205.0 kW)
+|100%: 495 minutes (AC 3-phase wall box/charging station 11.0 kW); 80%: 31 minutes (DC charging station 205.0 kW)
+|-
+!Luggage
+| colspan="4" | {{convert|1290|L|cuft|0|abbr=on}} max volume with rear seats folded and rear trunk. {{convert|470|L|cuft|0|abbr=on}} rear trunk + {{convert|38|L|cuft|0|abbr=on}} for charging cables under the rear trunk.
+|-
+!Weight (EU)
+|TBA
+|{{cvt|2125|kg|0|abbr=on}}
+|TBA
+|{{cvt|2290|kg|0|abbr=on}}
+|}
+
+==Safety==
+===Euro NCAP===
+{{Euro NCAP|year=2022|description=BMW i4 (LHD)|reference=https://cdn.euroncap.com/media/70210/euroncap-2022-bmw-i4-datasheet.pdf|reference_name=BMW i4 2022 Test Results|overall_stars=4|adult_points=33.3|adult_percent=87|child_points=43|child_percent=87|pedestrian_points=38.7|pedestrian_percent=71|safety_points=10.2|safety_percent=64}}
+
+== Reviews and reception ==
+In December 2022, ''Bloomberg'' named the BMW i4 as an ideal replacement for Tesla's Model 3 for individuals upset with Elon Musk.
+
+== Concept cars ==
+The BMW i4 was previewed by three concept cars: the BMW Vision Next 100 (2016), BMW i Vision Dynamics (2017) and BMW Concept i4 (2020).
+
+=== BMW i Vision Dynamics (2017) ===
+{{Multiple image
+| direction         = vertical
+| image1            = BMW i Vision Dynamics, IAA 2017, Frankfurt (1Y7A3505) (cropped).jpg
+| image2            = BMW i Vision Dynamics, IAA 2017, Frankfurt (1Y7A3509) (cropped).jpg
+| image3            = BMW i Vision Dynamics, IAA 2017, Frankfurt (1Y7A1838).jpg
+| caption2          =
+| caption3          = The BMW i Vision Dynamics provided the design inspiration for the i4.
+}}
+
+The initial BMW i Vision Dynamics concept debuted at the 2017 Frankfurt Motor Show, and was built on the flexible CLAR platform rather than a carbon-fibre structure as with the contemporary i3 and i8 electric models. The i Vision Dynamics concept gave a hint at BMW's intention to make a mid-sized EV four-door coupé. It was powered by a single electric motor on the rear axle. The car had projected performance figures of 0–{{convert|100|km/h|0|abbr=on}} in 4.0 seconds, and a top speed of over {{cvt|200|kph|mph|0|abbr=on}}. BMW's range goal for the i Vision Dynamics was {{cvt|600|km|0}} on the European WLTP cycle. The design of the i Vision Dynamics was based on the study Vision Next 100 from 2016.
+
+Although the interior was not finished, BMW promised a great view outwards via the "flush integration of glass into the main body". Controversially, the i Vision Dynamics featured a reworking of the double-kidney grille that covered a plethora of sensors. Depending on the legal environment, BMW intimated that the goal was to launch the production car with the capability to work at Level 3 or Level 4 autonomous driving, which require differing types of human input depending on circumstances.
+
+The production version was announced at the 2018 Geneva Motor Show as the BMW i4. At the 2018 Paris Motor Show, BMW confirmed the launch year for the i4 as being 2021.
+
+The headlight design was introduced in 2022 on the G70 7 Series and the facelifted G07 X7, while the rear light design was adopted in 2019 on the F44 2 Series Gran Coupé and G06 X6.
+
+=== BMW Concept i4 (2020) ===
+
+The BMW Concept i4 was presented in March 2020 and reiterated a lot of i4's specifications that was shared at the LA Auto Show in November 2019. The design language of the Concept i4 was more closely resembled to the production model than the i Vision Dynamics, and confirmed the i4 as an all-electric version of the G26 4 Series Gran Coupé. The single rear-motor was projected to be rated at {{cvt|390|kW|PS hp|0|abbr=on}} that was on par with one of BMW's V8 combustion engines, though media doubted this claim as V8's are connected to a xDrive system. It was clarified that the i4 would come with an EPA-estimated range of {{cvt|270|mi|km|0|disp=flip}} from an 80 kWh battery pack, though the production model has an EPA-rated range of {{cvt|300|mi|km|0|disp=flip}}.
+
+The BMW Concept i4 was an evolution of the i Vision Dynamics design study from 2017. The proportions were classic coupé, featuring a long wheelbase, fastback roofline and short overhangs. The exterior design had been kept simple with its smooth lines and clear surfaces "as a deliberate counterpoint to the dynamic flair of the driving experience". The covered kidney grille served primarily as an "intelligence panel" housing the various sensors for autonomous driving.
+
+The concept featured a stretched wheelbase with BMW claiming it would offer plenty of cabin space. The highly futuristic and minimalistic interior was dominated by the BMW Curved Display that was angled toward the driver, featuring the newest BMW Operating System 8. Other notable features was an all-glass roof, mixture of cloth and leather in the seats and dash with bronze and chrome fixtures, and replacement of touchpoints with crystal-like plastic.

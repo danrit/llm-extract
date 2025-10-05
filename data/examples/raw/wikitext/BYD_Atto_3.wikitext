@@ -1,0 +1,314 @@
+{{Short description|Battery electric compact crossover SUV}}
+{{redirect|BYD Atto|the smaller model sold as Atto 2|BYD Yuan Up|the hatchback sold as Atto 1 in Indonesia|BYD Seagull}}
+{{Use British English|date=July 2024}}
+{{Use dmy dates|date=May 2024}}
+{{Infobox automobile
+| name = BYD Atto 3
+| image = BYD Atto 3 1X7A6491.jpg
+| manufacturer = BYD Auto
+| model_code = SC2E
+| aka = BYD Yuan Plus (China and Latin America)
+| production = January 2022 – present
+| assembly = {{ubl
+  | China: Changsha, Hunan; Changzhou, Jiangsu; Hefei, Anhui
+<!--  | Thailand: Rayong (BYD Auto (Thailand), 2024–present) -->
+  | India: Sriperumbudur, Tamil Nadu (BYD India, 2022–present)
+ }}
+| designer = Under the lead of Wolfgang Egger
+| class = Compact crossover SUV (C)
+| body_style = 5-door SUV
+| platform = e-Platform 3.0
+| related = {{ubl
+  | BYD Dolphin
+  | BYD Atto 2 / Yuan Up/Pro
+  }}
+| layout = Front-motor, front-wheel-drive
+| engine =
+| motor = Permanent magnet synchronous
+| powerout = {{convert|150|kW|hp PS|abbr=on|0}}<br>{{convert|100|kW|hp PS|abbr=on|0}} (Singapore and Sri Lanka)
+| transmission =
+| battery = {{ubl
+  | 49.92&nbsp;kWh BYD Blade LFP
+  | 50.25&nbsp;kWh BYD Blade LFP
+  | 60.48&nbsp;kWh BYD Blade LFP
+  }}
+| range =
+| charging = {{unbulleted list
+  | '''AC:'''
+  | 7 kW
+  | 11 kW (Extended Range, optional with Comfort or Design trim in Europe)
+  | '''DC:'''
+  | 70 kW
+  | 80–88 kW (Extended Range)
+  | '''V2L:'''
+  | 3.6 kW
+  }}
+| wheelbase = {{convert|2720|mm|in|1|abbr=on}}
+| length = {{convert|4455|mm|in|1|abbr=on}}
+| width = {{convert|1875|mm|in|1|abbr=on}}
+| height = {{convert|1615|mm|in|1|abbr=on}}
+| weight = {{convert|1615–1750|kg|lb|0|abbr=on}}
+| sp = uk
+| predecessor = BYD Yuan
+| successor =
+}}
+The '''BYD Atto 3''', also marketed as '''BYD Yuan Plus''' ({{lang-zh|s=比亚迪元PLUS|t=|c=}}) in China and several Latin American countries, is a battery electric compact crossover SUV (C-segment) manufactured by BYD Auto. Part of the BYD Yuan series that is named after the Yuan dynasty, the Yuan Plus was released in mainland China in February 2022. For many overseas markets, the vehicle is BYD's first electric passenger car model.
+
+According to BYD, the name "Atto" was inspired by the attosecond, the smallest time scale unit in physics, depicting that the vehicle is "speedy, energetic, and dynamic". Initial plans were to market the Dolphin hatchback as the Atto 2 and the Seal sedan as the Atto 4 in export markets, however these cars ended up retaining its original name. A smaller BYD SUV model, the BYD Yuan Up is marketed as the Atto 2 in global markets since 2025.
+
+== Overview ==
+The Atto 3, marketed as the Yuan Plus in China, was first showcased in August 2021 at the Chengdu Auto Show, and was officially released in February 2022. As part of BYD's 'Dynasty series', the Yuan Plus is marketed through Dynasty Network dealerships. As opposed the previous Yuan, the Yuan Plus is exclusively available as a battery electric vehicle, and occupies the C-segment compact crossover space (A-class in China).
+
+During its introduction, BYD also announced its export market name, the Atto 3, and promised to dedicate a production line solely for the right hand drive markets.
+
+The Atto 3 / Yuan Plus is based on BYD's all-electric e-Platform 3.0, unlike the older models in the Dynasty Series that are modified from internal combustion and plug-in hybrid platforms. It features MacPherson strut front suspension, and multi-link independent rear suspension.
+
+The interior design of the Atto 3 / Yuan Plus was inspired by fitness culture and features aesthetics resembling gym and sports equipment such as treadmills, boxing rings, dumbbells and muscle fibres. The centre 12.8-inch (with an optional larger 15.6-inch) infotainment system is based on Android, and the screen can be rotated between portrait and landscape orientations. The boot space is measured at {{convert|440|L|cuft}}, or {{convert|1338|L|cuft}} with the rear seats folded.
+
+On 15 September 2023, BYD produced the 500,000th Yuan Plus / Atto 3 at its Hefei plant, 19 months after its introduction. 22 percent of the produced vehicles were exported.
+
+
+
+=== Running changes ===
+
+==== Export market ====
+BYD started rolling out the 2024 model year for global markets in January 2024. The "Build Your Dreams" badges on the rear was replaced by the new BYD logo, and some markets started receiving larger 15.6-inch infotainment system replacing the previous 12.8-inch. Other changes include new front BYD logo, and black C-pillar decoration replacing silver. Black exterior paint option and blue-black interior colour option also became available.
+
+In January 2025, BYD rolled out the 2025 model year Atto 3 for global markets. Notable changes include new wheel design, and new interior colour scheme options such as grey. In Australia, the 2025 Atto 3 has also had its maximum unbraked towing capacity increased by {{convert|50|kg|lb|0|abbr=on}} to a {{convert|750|kg|lb|0|abbr=on}} total. 
+
+==== Chinese market ====
+In September 2023, the Yuan Plus Champion Edition went on sale. It introduces price reductions and additional equipment such as heated and ventilated front seats, privacy glass, and transparent rendering for the 360-degree camera view.
+
+An updated model was launched in China as the Yuan Plus 2025 facelift with DiPilot Intelligent Driving in February 2025.
+
+
+
+== Specifications ==
+The Atto 3 / Yuan Plus incorporates a {{convert|150|kW|hp PS|0|abbr=on}} front-wheel drive electric motor generating {{cvt|310|Nm|kgm lbft|sigfig=3}} of torque, powered by BYD's proprietary lithium iron phosphate (LFP) blade battery. It offers two battery pack options — the 49.92&nbsp;kWh unit capable of travelling {{cvt|430|km|mi|0}} under the China Light-Duty Vehicle Test Cycle (CLTC) driving cycle or {{cvt|345|km|mi|0}} under the WLTP standards; while the 60.48&nbsp;kWh battery pack is rated at {{cvt|510|km|mi|0}} (CLTC) or {{cvt|420|km|mi|0}} (WLTP).
+
+The vehicle is built on 400-volt electrical architecture and supports maximum AC charging (Type 2) of 7&nbsp;kW (standard) or 11&nbsp;kW (option) as well as DC fast charging (CCS2) at a maximum rate of either 70&nbsp;kW (Standard Range) or 80&nbsp;kW (Extended Range). At 80&nbsp;kW, charging from 0% to 80% can be completed in 45 minutes.{{clear}}
+
+=== Powertrain ===
+{| class="wikitable" style="text-align:left; font-size:80%; width="
+! rowspan="2" |Type
+! rowspan="2" width="10%" |Battery
+! rowspan="2" width="5%" |Layout
+! rowspan="2" width="12%" |Electric motor
+! rowspan="2" width="10%" |Power
+! rowspan="2" width="18%" |Torque
+! rowspan="2" width="9%" |{{convert|0–100|km/h|mph|0|abbr=on}} (claimed)
+! colspan="3" |Range (claimed)
+! rowspan="2" width="10%" |Calendar years
+|-
+! width="5%" |CLTC
+! width="5%" |NEDC
+! width="5%" |WLTP
+|-
+!Standard Range
+|49.92&nbsp;kWh LFP blade battery
+| rowspan="4" |FWD
+| rowspan="4" |Permanent magnet synchronous motor
+|{{convert|150|kW|hp PS|0|abbr=on}}
+| rowspan="4" |{{convert|310|Nm|kgm lbft||abbr=on|sigfig=3}}
+| rowspan="2" |7.9 seconds
+| rowspan="2" |{{convert|430|km|mi|0|abbr=on}}
+| rowspan="2" |{{convert|410|km|mi|0|abbr=on}}
+| rowspan="2" |{{convert|345|km|mi|0|abbr=on}}
+|2022–present
+|-
+!Standard Range
+|50.25&nbsp;kWh LFP blade battery
+|{{convert|150|kW|hp PS|0|abbr=on}}
+|2024–present (Thailand)
+|-
+! rowspan="2" |Extended Range
+| rowspan="2" |60.48&nbsp;kWh LFP blade battery
+|{{convert|100|kW|hp PS|0|abbr=on}}
+| rowspan="2" |9.6 seconds
+6.3
+seconds
+|
+| rowspan="2" |{{convert|480|km|mi|0|abbr=on}}
+| rowspan="2" |{{convert|420|km|mi|0|abbr=on}}
+|2023–present (Singapore and Nepal)
+|-
+|{{convert|150|kW|hp PS|0|abbr=on}}
+|{{convert|510|km|mi|0|abbr=on}}
+|2022–present
+|
+|-
+! colspan="11" |References:
+|}
+
+
+== Markets ==
+=== East Asia ===
+==== Japan ====
+The Atto 3 was released in Japan in February 2023 as the first BYD model introduced in the country, with deliveries began in March.
+
+==== South Korea ====
+The Atto 3 was released in South Korea in January 2025 as the first BYD model introduced in the country.
+
+=== Europe ===
+The Atto 3 was introduced in Germany in October 2022. In the United Kingdom, the vehicle went on sale in March 2023 in three trim levels: Active, Comfort and Design.
+
+In July 2023, the Atto 3 became the best selling electric vehicle in Sweden, beating other popular cars like Volkswagen ID.4 and Tesla Model Y.
+
+=== Israel ===
+The Atto 3 was introduced in Israel in September 2022. By the end of 2022, it already was the third best selling electric vehicle in Israel. By the first quarter of 2023, it was best selling electric vehicle in Israel, and by the end of 2023, it was the best selling vehicle in the country.
+
+=== Latin America ===
+==== Brazil ====
+The Yuan Plus was introduced in Brazil in November 2022 in a sole variant using the 60.48&nbsp;kWh battery.
+
+'''Ecuador'''
+
+In Ecuador, the Atto 3 was sold in the same specs as the Brazilian model, also retaining the Yuan Plus name.
+
+==== Costa Rica ====
+The Yuan Plus was released in Costa Rica in July 2022. Two variants are offered in the country, the GL trim with a battery of 49.92&nbsp;kWh with a range of {{convert|400|km|mi}} under the NEDC cycle, and the GS trim, full extras with a 60.48&nbsp;kWh battery and a range of {{convert|480|km|mi}} also under NEDC.
+
+=== Oceania ===
+==== Australia ====
+The Atto 3 was introduced in Australia in August 2022, with deliveries starting in September 2022. Two variants are available: Standard Range and Extended Range. In October 2022, deliveries were delayed as a 'stop delivery' notice was in effect due to non-compliance of Australian Design Rules, as the rear middle seat of the Atto 3 is missing an appropriate top tether to use for a child seat. Deliveries resumed in November 2022 after a four-week pause, with modifications done for compliance. The 2024 model year with minor improvements and a price reduction went on sale in July 2024.
+
+==== New Zealand ====
+In New Zealand, the Atto 3 is available with a customized trim called Tachyon by REV with additional accessories.
+
+=== South Africa ===
+The Atto 3 was launched in South Africa on 29 June 2023, as part of BYD's entry to South Africa, with two variants available.
+
+=== South Asia ===
+==== India ====
+The Atto 3 was introduced in India in November 2022. It is locally assembled in India, at the company facility near Chennai.
+
+==== Nepal ====
+The Atto 3 was launched in Nepal in October 2022 with a {{convert|150|kW|hp PS|0|abbr=on}} motor. In response to the country's taxation system, BYD introduced a {{convert|100|kW|hp PS|0|abbr=on}} motor version in February 2023.
+
+==== Pakistan ====
+The Atto 3 was introduced in Pakistan by Mega Motors, with deliveries started as early as March 2025.{{Citation needed|date=May 2025}}
+
+==== Sri Lanka ====
+The 100kw motor variant of the Atto 3 was introduced in Sri Lanka by John Keells CG Auto at the end of 2024 and the deliveries began around March 2025. 
+
+=== Southeast Asia ===
+==== Brunei ====
+The Atto 3 was launched in Brunei in July 2023, in a sole Superior variant (60.48 kWh battery).
+
+==== Indonesia ====
+The Atto 3 was introduced in Indonesia in January 2024 alongside the Dolphin and Seal, as part of BYD's entry to the Indonesian passenger car market. Sales price were announced at the 31st Indonesia International Motor Show in February 2024. It is available in Advanced (49.9 kWh) and Superior (60.4 kWh) variants. The entry-level Advanced STD variant was added in May 2025.
+
+==== Malaysia ====
+The Atto 3 was released in Malaysia in December 2022 with two variants: Standard Range and Extended Range. Deliveries started in January 2023. The Anniversary Limited Edition of the Atto 3 was released in December 2023 as the celebration of the brand’s first anniversary in the country, limited to 500 units. In May 2024, the Atto 3 received an update in Malaysia. The Ultra (60.4 kWh) variant was added in March 2025.
+
+==== Philippines ====
+The Atto 3 was launched in the Philippines on 17 November 2023 with two variants: Dynamic (49.9 kWh battery with 410&nbsp;km range) and Premium (60.48 kWh battery with 480&nbsp;km range).
+
+==== Singapore ====
+The Atto 3 was launched in Singapore in July 2022 in a single variant with 60.48 kWh battery and a {{convert|150|kW|hp PS|0|abbr=on}} electric motor. In March 2023, BYD introduced a {{convert|100|kW|hp PS|0|abbr=on}} variant with the same battery to cater to a lower and less expensive Certificate of Entitlement category. It was the best selling car for the first quarter of 2024.
+
+==== Thailand ====
+The Atto 3 was released in Thailand in October 2022 with two variants: Standard Range and Extended Range. In one month after its introduction, BYD received 10,000 orders for the model. The 2024 model year Atto 3 was introduced in February and March 2024. The Standard Range model was split into two trim levels, Dynamic and Premium, and received a slightly larger 50.25 kWh battery to qualify for the 100,000 THB EV incentive for electric vehicles with batteries greater than 50 kWh, a rule updated for 2024.
+
+In January 2025, the locally assembled model went on sale with a lower price. The Extended Range model with new design 18 inch alloy wheel.
+
+==== Vietnam ====
+The Atto 3 was introduced in Vietnam on 18 July 2024 alongside the Dolphin and Seal, as part of BYD's entry in Vietnam. It is available in Dynamic (49.9 kWh) and Premium (60.4 kWh) variants.
+
+{{clear left}}
+
+== Reception ==
+In a review published in March 2023, the magazine ''Top Gear'' rated the car 7/10, noting that "broadly, we're impressed [...] it drives decently under most circumstances [...] depressing though it is to say, in this class[,] 'decent' is as good as it gets," while noting its soggy brakes and small boot space. The media also recorded a {{cvt|0-62|mph|km/h}} acceleration time in 7.3 seconds. British ''Auto Express'' commented that "BYD has done a good job with the brakes". The magazine ''Car'' noted that the Atto 3 supports DC rapid charging, but only at speeds up to 88&nbsp;kW, which means a 30–80% boost takes around 29 minutes. The media ''Drive'' awarded the Atto 3 the "2023 Drive Car of the Year Best EV under $70,000" award in March 2023, due to its exceptional price, comfort, roominess and performance. The publication noted its poor tyre performance, unintuitive 'P' park button, and an unrefined lane-keeping assistance system, rating it 7.1/10. The publication ''Paul Tan'' commented that the Atto 3's seats are "among the most comfortable chairs we’ve ever sat in." The ''Autocar India'' magazine stated that the vehicle feels roomy due to its long wheelbase and the presence of a sunroof, and features well-built cabin panels.
+
+== Recall ==
+On 30 September 2024, BYD recalled 96,714 Dolphin and Yuan Plus vehicles in China due to a fire risk. The affected vehicles were manufactured between November 2022 and December 2023. At the time, it was BYD's largest recall to date. The issue involves a defect in the production of the electric power steering column assembly (CEPS) controller. When the tool cover is closed, it may press against internal components, causing tiny cracks. Over time, these cracks may expand and lead to short circuits, overheating, or fires. BYD dealers would install insulation pads on the controllers to eliminate the safety risk.
+
+== Safety ==
+In a 2022 testing, the Atto 3 was rated 5 stars in Euro NCAP.
+{| class="wikitable"
+| colspan="2" |'''Euro NCAP scores''' (2022)
+|-
+|Overall rating
+|{{Rating|5|5}}
+|-
+|Adult Occupant
+|91%
+|-
+|Child Occupant
+|89%
+|-
+|Vulnerable Road Users
+|69%
+|-
+|Safety Assist
+|74%
+|}
+
+== Awards ==
+
+* 2022 New Zealand Car of the Year
+* ''VAB'' Family Car of the Year 2023
+* ''The Straits Times'' Car of the Year 2022
+* ''Israel Sport 5'' Vehicle of the Year
+* 2022 Thailand Best EV SUV
+* 2023 ''Drive'' Car of the Year Best Electric Vehicle Under $70,000
+
+== Sales and production ==
+During its first ten months in the market, a total of 202,018 units of the Yuan Plus were sold globally in 2022, which accounted 25 percent of battery electric vehicles sold by BYD in the period. During the first half of 2023, 201,505 units were sold globally. Global production reached 500,000 in September 2023. Cumulative sales globally reached 1 million vehicles on 23 June 2025, three years and four months after it launched on 19 February 2022.
+{| class="wikitable"
+! rowspan="2" |Year
+! colspan="10" |Sales
+! rowspan="2" |Total production
+|-
+!China
+!Australia
+!New Zealand
+!Malaysia
+!Thailand
+!Indonesia
+!India
+!Brazil
+!Costa Rica
+!Israel
+|-
+|2022
+|190,411
+|2,113
+|1,685
+|33
+|312
+|
+|
+|
+|158
+|3,704
+|202,058
+|-
+|2023
+|309,835
+|11,042
+|3,171
+|3,157
+|19,214
+|
+|2,078
+|1,756
+|
+|14,244
+|412,202
+|-
+|2024
+|275,223
+|5,751
+|
+|2,969
+|7,747
+|3,291
+|
+|2,868
+|
+|10,607
+|309,536
+|}
+{{clear}}
+

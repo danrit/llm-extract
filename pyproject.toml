@@ -1,0 +1,32 @@
+[project]
+name = "llm-extract"
+version = "0.0.1"
+description = "A tool to extract structured data from text using LLMs."
+dependencies = [
+    "llm",
+    "llm-gpt4all",
+    "llm-ollama",
+    "ollama",
+    "PyYAML"
+]
+
+[project.scripts]
+llm-extract = "llm_extract.cli:cli"
+
+# Required to build the package since we are not using src layout
+# IE setuptools would misinterpret extra folder(s) (data) as a package if we
+# don't add this ("Multiple top-level packages discovered in a flat-layout")
+[tool.setuptools]
+py-modules = ["llm_extract"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+
+# General note: Written using a mix of python packaging user guides,
+# simonw/llm approach and various sources from Google
+# https://packaging.python.org/en/latest/, specifically:
+# - https://packaging.python.org/en/latest/guides/creating-command-line-tools/
+# - https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
+# - https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/

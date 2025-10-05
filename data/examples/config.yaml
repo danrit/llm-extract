@@ -1,0 +1,90 @@
+raw_data:
+  default:
+    filename: data/examples/raw/data.jsonl
+  default_lite:
+    filename: data/examples/raw/data.lite.jsonl
+
+prompts:
+  default:
+    template:
+      filename: data/examples/LLM-PROMPT-EV.md
+      variables:
+        - raw_data
+        - full_model_name
+        - configuration_name
+        - country_name
+        - year
+
+data_schema:
+  default:
+    # Definition of the expected structured data format (JSON Schema)
+    type: object
+    properties:
+      battery_capacity:
+        type:
+          - number
+          - "null"
+      charging_ac:
+        type:
+          - number
+          - "null"
+      charging_dc:
+        type:
+          - number
+          - "null"
+      power:
+        type:
+          - number
+          - "null"
+      range:
+        type:
+          - number
+          - "null"
+    required:
+      - battery_capacity
+      - charging_ac
+      - charging_dc
+      - power
+      - range
+
+models:
+  "DeepSeek-R1-Distill-Llama-8B-Q4_0":
+    backend: simonw_llm
+    options:
+      temperature: temp
+      max_predict_tokens: max_tokens
+      top_p: top_p
+  gemma3:
+    backend: ollama_ollama
+    options:
+      temperature: temperature
+      max_predict_tokens: num_predict
+      top_p: top_p
+  "gpt-oss":
+    backend: ollama_ollama
+    options:
+      temperature: temperature
+      max_predict_tokens: num_predict
+      top_p: top_p
+
+scenarios:
+  default:
+    raw_data: default_lite
+    data_schema: default
+    variations:
+      prompts:
+        - default
+      models:
+#        - DeepSeek-R1-Distill-Llama-8B-Q4_0
+        - gemma3
+#        - gpt-oss
+      model_options:
+        temperature:
+#          - 0.1
+          - 0.5
+#          - 1.0
+        top_p:
+#          - 0.1
+#          - 0.5
+          - 0.95
+      runs: 1

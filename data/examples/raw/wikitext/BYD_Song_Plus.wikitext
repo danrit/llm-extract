@@ -1,0 +1,485 @@
+{{Short description|Compact crossover SUV}}
+{{redirect|BYD Sealion 6|Chinese market model introduced in 2025|BYD Sealion 06}}
+{{Use British English|date=August 2024}}
+{{Infobox electric vehicle
+| name = BYD Song Plus
+| manufacturer = BYD Auto
+| image = 2023 BYD Song Plus DM-i (front).jpg
+| caption = 2023 BYD Song Plus DM-i
+| model_code = SA3
+| aka = {{ubl
+  | BYD Seal U (Europe)
+  | BYD Sealion 6
+  }}
+| production = September 2020 – present
+| assembly = {{ubl
+  | China: Xi'an, Shaanxi
+  | Uzbekistan: Jizzakh (UzAuto Motors, 2024–present)
+| Thailand: Rayong (BYD Auto (Thailand), 2024–present)
+  }}
+| designer =
+| class = Compact crossover SUV
+| body_style = 5-door SUV
+| layout = {{unbulleted list
+  | Front-engine, front-wheel drive (petrol)
+  | Front-engine, front-motor, front-wheel drive (DM-i)
+  | Front-engine, dual-motor, all-wheel drive (DM-i AWD)
+  | Front-motor, front-wheel drive (EV)
+  }}
+| related = {{unbulleted list
+  | BYD Song Pro
+  | BYD Song L DM-i
+  }}
+| platform =
+| engine = {{ubl
+  | '''Petrol:'''
+  | 1.5 L ''BYD472ZQA'' I4 turbo (2020–2021)
+  | '''Petrol plug-in hybrid:'''
+  | 1.5 L ''BYD476QA'' I4
+  | 1.5 L ''BYD476QC'' I4
+  | 1.5 L ''BYD476ZQC'' I4 turbo
+}}
+| drivetrain = Plug-in hybrid (DM-i)
+| transmission = {{ubl
+  | 7-speed DCT (petrol)
+  | E-CVT (DM-i)
+}}
+| wheelbase = {{convert|2765|mm|in|1|abbr=on}}
+| length = {{convert|4705-4785|mm|in|1|abbr=on}}
+| width = {{convert|1890|mm|in|1|abbr=on}}
+| height = {{convert|1680|mm|in|1|abbr=on}}
+| weight = {{ubl
+  | {{convert|1560|kg|lb|0|abbr=on}} (petrol)
+  | {{convert|1700-2100|kg|lb|0|abbr=on}} (DM-i)
+  | {{convert|2295-2425|kg|lb|0|abbr=on}} (EV)
+  }}
+}}
+The '''BYD Song Plus''' ({{lang-zh|c=比亚迪宋PLUS}}) is a compact crossover SUV manufactured by BYD Auto since 2020. It is part of the BYD Song series of SUVs that are named after the Song dynasty. Initially available solely as an internal combustion engine (ICE) vehicle with a 1.5-litre turbocharged petrol engine, in 2021 BYD introduced the plug-in hybrid Song Plus DM-i and the battery electric Song Plus EV. The petrol model was phased out in 2022 after BYD ended production of ICE vehicles.
+
+Originally part of the Dynasty Series line-up, the Song Plus has been sold in China through the Ocean Network dealership chain since 2022 to diversify the offerings of the newly established Ocean Series. The Dynasty Series counterpart of the Song Plus, the Song L DM-i, was introduced in 2024.
+
+In 2023, BYD introduced the Song Plus EV as the '''BYD Seal U''' in Europe. The plug-in hybrid Seal U DM-i was introduced later in 2024. In mid-2024, the plug-in hybrid model was introduced in Australia, New Zealand, the Philippines and Thailand as the '''BYD Sealion 6 DM-i'''.
+
+{{As of|2024}}, the Song Plus is the best-selling BYD SUV in China. Global cumulative production of the model (excluding the ICE-powered variant) surpassed 1 million units by July 2024.
+
+== Pre-facelift (2020–2023) ==
+The Song Plus was introduced in September 2020, as a larger and more "upmarket" alternative to the BYD Song Pro, but positioned below the BYD Tang. It occupies the Chinese B-class SUV segment, equivalent to the global D-segment. The vehicle was initially offered only with an internal combustion engine, with the plug-in hybrid (DM-i) and battery electric (EV) variants joining the lineup later in 2021. The petrol model was phased out in early 2022. Initial versions of the Song Plus is equipped with a 12.8-inch rotatable central infotainment screen with the third-generation DiLink system, a karaoke function, and a full LCD instrument panel.
+
+The petrol version, marketed briefly between 2020 and 2021 uses the 1.5-litre ''BYD472ZQA'' I4 turbocharged petrol engine and a 7-speed wet dual-clutch transmission producing power output of {{convert|136|kW|hp PS|0|abbr=on}}.
+
+
+
+=== Song Plus DM-i ===
+The plug-in hybrid version of the Song Plus went on sale in March 2021 in China. The model received different front end styling compared to the petrol version and the EV version. For the pre-facelift model, the Song Plus DM-i was available in 51&nbsp;km and 110&nbsp;km variants with an NEDC electric range of {{convert|51|km|mi|0|abbr=on}} and {{convert|100|km|mi|0|abbr=on}} respectively. This hybrid system provides four major control modes (EV, HEV series, HEV parallel, and engine direct drive).
+
+The claimed fuel consumption of the 51&nbsp;km variant is rated at {{convert|4.4|L/100km|km/l mpgus|1|abbr=on}}, the {{convert|0-100|km/h|mph|0|abbr=on}} acceleration time is 8.5 seconds, and the combined range is {{convert|1150|km|mi|0|abbr=on}}. For the 110&nbsp;km variant, the fuel economy is {{convert|4.5|L/100km|km/l mpgus|1|abbr=on}}, and the {{convert|0-100|km/h|mph|0|abbr=on}} acceleration time is 7.9 seconds, with a combined range of {{convert|1200|km|mi|0|abbr=on}}.
+
+
+
+=== Song Plus EV ===
+The battery electric variant of the Song Plus went on sale in April 2021 in China. The Song Plus EV received a different front end design with smaller grille opening. It is equipped with a 71.7 kWh LFP blade battery. In China, the Song Plus EV was marketed through the e-Network dealerships, which was renamed to the Ocean Network later.
+
+
+
+== {{Anchor|BYD Seal U}}2023 facelift ==
+The updated Song Plus was launched in June 2023 for the Chinese market, initially as the Song Plus Champion Edition. It is available in DM-i and EV variants. It features a restyled front end and rear end design with headlamp units similar to the BYD Seal. BYD also replaced the Song (宋) emblem with the standard BYD logo, aligning it with the vehicles from the Ocean series.
+
+The EV version has a range of {{convert|605|km|mi|0|abbr=on}} and a power output of {{cvt|218|hp|kW PS}}. The DM-i PHEV, features a 1.5-litre engine producing {{cvt|110|hp|kW PS}} and an electric motor producing {{cvt|197|hp|kW PS}}.
+
+In 2023, BYD unveiled the '''BYD Seal U''', the export version of the Song Plus EV Champion Edition. It debuted in Europe in September 2023 as part of the Seal family. In May 2024, the vehicle was introduced in Australia and other markets as the '''BYD Sealion 6'''.
+
+
+
+== Markets ==
+=== Asia ===
+
+==== Philippines ====
+The Sealion 6 DM-i was launched in the Philippines on 25 July 2024, as the first plug-in hybrid BYD model in the country. It is available in a sole variant.
+
+==== Singapore ====
+The Sealion 6 DM-i was launched in Singapore on 18 July 2025, as the first plug-in hybrid BYD model in the country. It is available in a sole variant.
+
+==== Thailand ====
+The Sealion 6 DM-i was launched in Thailand on 8 August 2024, as the first plug-in hybrid BYD model in the country. It is available in two trim levels: Dynamic and Premium, both powered by a 1.5-litre DM-i naturally aspirated petrol engine and front-wheel drive.
+
+==== Vietnam ====
+The Sealion 6 DM-i was launched in Vietnam on 18 April 2025, as the first plug-in hybrid BYD model in the country, alongside the Sealion 8. It is available in two trim levels: Dynamic and Premium, both powered by a 1.5-litre DM-i naturally aspirated petrol engine and front-wheel drive.
+
+=== Australia and New Zealand ===
+The vehicle went on sale Australia and New Zealand as the Sealion 6 in May 2024 as the first plug-in hybrid BYD model in the country. The model was on sale after a last-minute change from the proposed name Seal U. Two variants are available, named Dynamic and Premium, both are plug-in hybrid DM-i models. The Premium trim is powered by a more powerful 1.5-litre DM-i turbocharged petrol engine and equipped with dual-motor all-wheel drive. The entry-level Essential variant was introduced in January 2025. The base Dynamic model was discontinued after its price was reduced in January 2025. For the 2025 model year, BYD listed only the feature-reduced Essential and the unchanged Premium variants in its lineup. The Dynamic model was reintroduced in August 2025 with Standard Range (18.3 kWh) and Extended Range (26.6 kWh) variants. The Premium model was made available with Extended Range (26.6 kWh) variant in September 2025.
+
+=== Europe ===
+{{Multiple image
+| align             = right
+| direction         = vertical
+| width             = 220
+| image1            = BYD Seal U DM-i DSC 9307.jpg
+| image2            = BYD Seal U EV DSC 8762.jpg
+| caption2          = BYD Seal U EV
+| caption1          = BYD Seal U DM-i
+}}
+
+The Song Plus is sold as the BYD Seal U in Europe, aligning its name with the Seal sedan with an additional "U" moniker representing "utility". The EV model went on sale in February 2024, after its initial introduction in September 2023. Two variants are available, which are Comfort, which offers a 71.8 kWh battery, and the Design, which is specified with an 87 kWh battery. The battery electric Seal U is not available in right-hand drive markets such as the UK and Ireland.
+
+The plug-in hybrid model was introduced in May 2024 as the Seal U DM-i as the first plug-in hybrid BYD model in the region. It went on sale in some European countries, including right-hand drive markets such as the UK, since June 2024.
+
+=== Latin America ===
+
+==== Brazil ====
+The Song Plus DM-i went on sale in Brazil in November 2022 as the third product of BYD in the market, after the Han and Tan EVs. It was available in one variant. In June 2024, BYD introduced the 2025 model year Song Plus. While it retains the pre-facelift styling, the vehicle received a larger 18.3 kWh battery replacing the previous 8.3 kWh battery.
+
+In November 2024, the Song Plus Premium went on sale in Brazil. Adopting the 2023 facelift styling, it is an all-wheel drive plug-in hybrid with a 1.5-litre turbocharged petrol engine and a combined output of {{convert|238|kW|hp PS|0|abbr=on}}. It is sold alongside the previous Song Plus.
+
+==== Mexico ====
+The Song Plus DM-i went on sale in Mexico in December 2023 as the first plug-in hybrid BYD model in the country. It is available in a single variant, with a 1.5-litre turbocharged petrol engine and equipped with dual-motor all-wheel drive. During its introduction, it was the least expensive plug-in hybrid vehicle sold in the country.
+
+=== South Africa ===
+The Sealion 6 DM-i was launched in South Africa on 4 April 2025, alongside the Sealion 7 and Shark 6. It is available in three trim levels: Comfort, Dynamic and Premium. The Comfort and Dynamic trims use the 1.5-litre DM-i naturally aspirated petrol engine with the front-wheel drive configuration, while the Premium trim use the 1.5-litre DM-i turbocharged petrol engine with the dual-motor all-wheel drive configuration. At the time of its introduction, the Sealion 6 DM-i  was the cheapest plug-in hybrid vehicle (PHEV) on sale in South Africa.
+
+== Powertrain ==
+
+=== Song Plus (petrol) ===
+{| class="wikitable" style="text-align:left; font-size:80%;"
+!Type
+!Engine code
+!{{abbr|Displ.|Displacement}}
+! width="17%" |Power
+! width="22%" |Torque
+!Transmission
+!Layout
+!Calendar years
+|-
+!1.5T
+|''BYD476ZQD''
+|{{convert|1497|cc|L|1|abbr=on}} I4 turbo
+|{{convert|136|kW|hp|0|abbr=on}} @ 5,500&nbsp;rpm
+|{{cvt|288|Nm|kgm lbft|sigfig=3}} @ 1,500–3,700&nbsp;rpm
+|7-speed DCT
+|FWD
+|2020–2021
+|-
+! colspan="8" |References:
+|}
+
+=== Song Plus DM-i ===
+{| class="wikitable" style="text-align:left; font-size:80%; width="
+! rowspan="2" |Type
+! colspan="3" |Engine
+! rowspan="2" |{{abbr|Trans.|Transmission}}
+! rowspan="2" width="6%" |Battery
+! rowspan="2" width="4%" |Layout
+! colspan="3" |Electric motor
+!Combined system
+! rowspan="2" width="8%" |{{convert|0–100|km/h|mph|0|abbr=on}} (claimed)
+! colspan="2" |Electric range (claimed)
+! rowspan="2" width="9%" |Calendar years
+|-
+! width="6%" |{{abbr|Displ.|Displacement}}
+!Power
+!Torque
+!Type
+!Power
+!Torque
+!Power
+! width="5%" |NEDC
+! width="5%" |WLTC
+|-
+!DM-i 51
+|''BYD476QA'' {{convert|1498|cc|L|1|abbr=on}} I4
+|{{convert|81|kW|hp|0|abbr=on}}
+|{{convert|135|Nm|kgm lbft||abbr=on|sigfig=3}}
+| rowspan="8" |E-CVT
+|8.3&nbsp;kWh LFP Blade
+|FWD
+|Front PMSM
+|{{convert|132|kW|hp|0|abbr=on}}
+|{{convert|316|Nm|kgm lbft||abbr=on|sigfig=3}}
+|N/A
+|8.5 seconds
+|{{convert|51|km|mi|0|abbr=on}}
+|{{convert|43|km|mi|0|abbr=on}}
+|2021–2023
+|-
+!DM-i 75
+|''BYD476QC'' {{convert|1498|cc|L|1|abbr=on}} I4
+|{{convert|74|kW|hp|0|abbr=on}}
+|{{convert|126|Nm|kgm lbft||abbr=on|sigfig=3}}
+|12.9&nbsp;kWh LFP Blade
+|
+|
+|{{convert|160|kW|hp|0|abbr=on}}
+|{{convert|260|Nm|kgm lbft||abbr=on|sigfig=3}}
+|N/A
+|7.7 seconds
+|{{convert|75|km|mi|0|abbr=on}}
+|{{convert|60|km|mi|0|abbr=on}}
+|2024–present
+|-
+!DM-i 110
+|''BYD476QA'' {{convert|1498|cc|L|1|abbr=on}} I4
+|{{convert|81|kW|hp|0|abbr=on}}
+|{{convert|135|Nm|kgm lbft||abbr=on|sigfig=3}}
+|18.3&nbsp;kWh LFP Blade
+|
+|
+|{{convert|145|kW|hp|0|abbr=on}}
+|{{convert|325|Nm|kgm lbft||abbr=on|sigfig=3}}
+|N/A
+|7.9 seconds
+|{{convert|110|km|mi|0|abbr=on}}
+|{{convert|85|km|mi|0|abbr=on}}
+|2021–2024
+|-
+!DM-i 112
+|''BYD476QC'' {{convert|1498|cc|L|1|abbr=on}} I4
+|{{convert|74|kW|hp|0|abbr=on}}
+|{{convert|126|Nm|kgm lbft||abbr=on|sigfig=3}}
+|18.3&nbsp;kWh LFP Blade
+|
+|
+|{{convert|160|kW|hp|0|abbr=on}}
+|{{convert|260|Nm|kgm lbft||abbr=on|sigfig=3}}
+|N/A
+|7.7 seconds
+|{{convert|112|km|mi|0|abbr=on}}
+|{{convert|91|km|mi|0|abbr=on}}
+|2024–present
+|-
+!DM-i 150
+|''BYD476QA'' {{convert|1498|cc|L|1|abbr=on}} I4
+|{{convert|81|kW|hp|0|abbr=on}}
+|{{convert|135|Nm|kgm lbft||abbr=on|sigfig=3}}
+|26.6&nbsp;kWh LFP Blade
+|
+|
+|{{convert|145|kW|hp|0|abbr=on}}
+|{{convert|325|Nm|kgm lbft||abbr=on|sigfig=3}}
+|N/A
+|8.5 seconds
+|{{convert|150|km|mi|0|abbr=on}}
+|{{convert|116|km|mi|0|abbr=on}}
+|2023–2024
+|-
+!DM-i 160
+|''BYD476QC'' {{convert|1498|cc|L|1|abbr=on}} I4
+|{{convert|74|kW|hp|0|abbr=on}}
+|{{convert|126|Nm|kgm lbft||abbr=on|sigfig=3}}
+|26.6&nbsp;kWh LFP Blade
+|
+|
+|{{convert|160|kW|hp|0|abbr=on}}
+|{{convert|260|Nm|kgm lbft||abbr=on|sigfig=3}}
+|N/A
+|7.9 seconds
+|{{convert|160|km|mi|0|abbr=on}}
+|{{convert|128|km|mi|0|abbr=on}}
+|2024–present
+|-
+! rowspan="2" |DM-i 100 4WD
+| rowspan="2" |''BYD476ZQC'' {{convert|1497|cc|L|1|abbr=on}} I4 turbo
+| rowspan="2" |{{convert|102|kW|hp|0|abbr=on}}
+| rowspan="2" |{{convert|231|Nm|kgm lbft||abbr=on|sigfig=3}}
+| rowspan="2" |18.3&nbsp;kWh LFP Blade
+| rowspan="2" |AWD
+|Front PMSM
+|{{convert|145|kW|hp|0|abbr=on}}
+|{{convert|316|Nm|kgm lbft||abbr=on|sigfig=3}}
+| rowspan="2" |{{convert|265|kW|hp|0|abbr=on}}
+| rowspan="2" |5.9 seconds
+| rowspan="2" |{{convert|100|km|mi|0|abbr=on}}
+| rowspan="2" |N/A
+| rowspan="2" |2021–2023
+|-
+|Rear PMSM
+|{{convert|120|kW|hp|0|abbr=on}}
+|{{convert|280|Nm|kgm lbft||abbr=on|sigfig=2}}
+|-
+! colspan="15" |References:
+|}
+
+=== Sealion 6 DM-i / Seal U DM-i ===
+{| class="wikitable" style="text-align:left; font-size:80%; width="
+! rowspan="2" |Type
+! colspan="3" |Engine
+! rowspan="2" |{{abbr|Trans.|Transmission}}
+! rowspan="2" width="6%" |Battery
+! rowspan="2" width="4%" |Layout
+! colspan="3" |Electric motor
+!Combined system
+! rowspan="2" width="8%" |{{convert|0–100|km/h|mph|0|abbr=on}} (claimed)
+! colspan="2" |Electric range (claimed)
+! rowspan="2" width="9%" |Calendar years
+|-
+! width="6%" |{{abbr|Displ.|Displacement}}
+!Power
+!Torque
+!Type
+!Power
+!Torque
+!Power
+! width="5%" |NEDC
+! width="5%" |WLTC
+|-
+!DM-i
+|''BYD476QA'' {{convert|1498|cc|L|1|abbr=on}} I4
+|{{convert|81|kW|hp|0|abbr=on}}
+|{{convert|122|Nm|kgm lbft||abbr=on|sigfig=3}}
+| rowspan="3" |E-CVT
+|18.3&nbsp;kWh LFP Blade
+|FWD
+|Front PMSM ''TZ220XYE''
+|{{convert|145|kW|hp|0|abbr=on}}
+|{{convert|300|Nm|kgm lbft||abbr=on|sigfig=3}}
+|{{convert|160|kW|hp|0|abbr=on}}
+|8.5 seconds
+|{{convert|105|km|mi|0|abbr=on}}
+|{{convert|92|km|mi|0|abbr=on}}
+|2024–present
+|-
+! rowspan="2" |DM-i AWD
+| rowspan="2" |''BYD476ZQC'' {{convert|1497|cc|L|1|abbr=on}} I4 turbo
+| rowspan="2" |{{convert|102|kW|hp|0|abbr=on}}
+| rowspan="2" |{{convert|220|Nm|kgm lbft||abbr=on|sigfig=3}}
+| rowspan="2" |18.3&nbsp;kWh LFP Blade
+| rowspan="2" |AWD
+|Front PMSM ''TZ220XYS''
+|{{convert|150|kW|hp|0|abbr=on}}
+|{{convert|300|Nm|kgm lbft||abbr=on|sigfig=3}}
+| rowspan="2" |{{convert|238|kW|hp|0|abbr=on}}
+| rowspan="2" |5.9 seconds
+| rowspan="2" |N/A
+| rowspan="2" |{{convert|81|km|mi|0|abbr=on}}
+| rowspan="2" |2024–present
+|-
+|Rear PMSM
+|{{convert|120|kW|hp|0|abbr=on}}
+|{{convert|250|Nm|kgm lbft||abbr=on|sigfig=2}}
+|-
+! colspan="15" |References:
+|}
+
+=== Song Plus EV / Seal U EV ===
+{| class="wikitable" style="text-align:left; font-size:80%; width="
+! rowspan="2" |Type
+! rowspan="2" width="18%" |Battery
+! rowspan="2" width="4%" |Layout
+! colspan="2" rowspan="2" width="8%" |Electric motor
+! rowspan="2" width="12%" |Power
+! rowspan="2" width="18%" |Torque
+! rowspan="2" width="8%" |{{convert|0–100|km/h|mph|0|abbr=on}} (claimed)
+! colspan="2" |Range (claimed)
+! rowspan="2" width="9%" |Calendar years
+|-
+! width="5%" |CLTC
+! width="5%" |WLTP
+|-
+!EV
+|71.7&nbsp;kWh LFP Blade battery
+|FWD
+|Front
+|PMSM
+|{{convert|135|kW|hp|0|abbr=on}}
+|{{convert|280|Nm|kgm lbft||abbr=on|sigfig=3}}
+|N/A
+|{{convert|520|km|mi|0|abbr=on}}
+|N/A
+|2021–2023
+|-
+!EV 520
+|71.8&nbsp;kWh LFP Blade battery
+|FWD
+|Front
+|PMSM
+|{{convert|150|kW|hp|0|abbr=on}}
+|{{convert|310|Nm|kgm lbft||abbr=on|sigfig=3}}
+|9.3 seconds
+|{{convert|520|km|mi|0|abbr=on}}
+|{{convert|420|km|mi|0|abbr=on}}
+|2023–present
+|-
+!EV 605
+|87.04&nbsp;kWh LFP Blade battery
+|FWD
+|Front
+|PMSM
+|{{convert|160|kW|hp|0|abbr=on}}
+|{{convert|330|Nm|kgm lbft||abbr=on|sigfig=3}}
+|9.6 seconds
+|{{convert|605|km|mi|0|abbr=on}}
+|{{convert|500|km|mi|0|abbr=on}}
+|2023–present
+|-
+! colspan="11" |References:
+|}
+
+== Safety ==
+{{Euro NCAP|year=2023|description=BYD Seal U electric (LHD)|adult_points=36.3|adult_percent=90|child_points=42.4|child_percent=86|pedestrian_percent=83|pedestrian_points=52.6|safety_points=13.9|safety_percent=77|reference=https://www.euroncap.com/en/results/byd/seal-u/50187|reference_name=BYD Seal U Test Results|overall_stars=5}}
+
+== Sales and production ==
+On 20 July 2024, BYD produced the one millionth Song Plus New Energy (DM-i and EV combined).
+{| class="wikitable"
+! rowspan="2" |Year
+! colspan="4" |China
+!Brazil
+!Australia
+!Turkey
+! rowspan="2" |Total production
+|-
+!ICE
+!DM-i
+!EV
+!Total
+!Song Plus DM-i
+!Sealion 6 DM-i
+!Seal U DM-i
+|-
+|2020
+|N/A
+|3,118
+|3,990
+|7,108
+|
+|
+|
+|7,108
+|-
+|2021
+|N/A
+|79,508
+|29,340
+|108,848
+|
+|
+|
+|108,848
+|-
+|2022
+|
+|388,048
+|66,935
+|454,983
+|12
+|
+|
+|458,047
+|-
+|2023
+|
+|296,294
+|93,919
+|390,213
+|7,672
+|
+|
+|427,071
+|-
+|2024
+|
+|266,189
+|152,285
+|418,474
+|17,910
+|6,198
+|4,531
+|511,962
+|}

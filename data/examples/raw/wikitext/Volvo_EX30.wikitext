@@ -1,0 +1,167 @@
+{{Short description|Battery electric subcompact crossover SUV}}
+{{Use dmy dates|date=April 2025}}
+{{Infobox automobile
+| name = Volvo EX30
+| image = Volvo EX30 IMG 8923.jpg
+| caption =
+| manufacturer = Volvo Cars
+| aka =
+| production = 2023–present
+| model_years = {{ubl
+  |2024–present (Europe)
+  |2025–present (North America)
+}}
+| assembly = {{ubl
+  | China: Zhangjiakou (Zhangjiakou Volvo Motor Company) / Chengdu ({{abbr|ZAMC|Zhongjia Automobile Manufacturing (Chengdu)}}; Final Assembly), from 2023
+  | Belgium: Ghent (VCG)
+  | Malaysia: Shah Alam (VCMM)
+}}
+| designer =
+| class = Subcompact crossover SUV (B)
+| body_style = 5-door hatchback
+| layout = {{ubl
+  | Rear-motor, rear-wheel-drive
+  | Dual-motor, all-wheel-drive
+}}
+| platform = Sustainable Experience Architecture 2 (SEA2)
+| related = {{ubl
+ | Smart #1
+ | Zeekr X
+ | Lynk & Co Z20
+}}
+| engine =
+| motor = 1× or 2× permanent magnet synchronous
+| battery = 51 kWh LFP or 69 kWh NMC
+| electric_range = {{unbulleted list
+  | {{cvt|214|mi|0}} Single Motor
+  | {{cvt|298|mi|0}} Single Motor Extended Range
+  | {{cvt|286|mi|0}} Twin Motor Performance
+}}
+| range =
+| wheelbase = {{cvt|2650|mm|in|1}}
+| length = {{cvt|4233|mm|in|1}}
+| width = {{cvt|1836|mm|in|1}}
+| height = {{cvt|1550|mm|in|1}}
+| weight = {{cvt|1830|-|1943|kg|lb|0}}
+| predecessor = Volvo C30 DRIVe Electric
+| successor =
+}}
+
+The '''Volvo EX30''' is a battery electric subcompact crossover SUV manufactured by Volvo Cars. Revealed in June 2023, the EX30 is the smallest Volvo vehicle currently on sale, positioned below the XC40 and C40 crossovers. It is produced in China and Belgium and is related to the Zeekr X and the Smart #1, which are similar in size and developed from Geely's SEA platform. The vehicle is sold globally.
+
+==Overview==
+In November 2022, the EX30 was first shown in teaser images alongside the Volvo EX90.
+
+The EX30 was revealed on June 7, 2023. It is {{cvt|4233|mm|in|1}} long with a {{cvt|2650|mm|in|1}} wheelbase, creating short overhangs on the front and rear. It has a ground clearance of {{cvt|177|mm|in|1}} unladen. With a {{cvt|0-100|km/h|mph}} figure of 3.4 seconds, the EX30 Twin Motor Performance variant is the fastest accelerating Volvo ever made.
+
+According to Volvo, the model has the smallest lifetime carbon footprint of any Volvo model to date at {{convert|30|t|lb|-3|abbr=out}} over {{cvt|200000|km|mi|-3}} miles of driving for both production and operation. It has been achieved in part through a body that contains 25% recycled aluminium, 17% recycled steel and 17% recycled plastic. Being an entry-level model, the company expects around three-quarters of EX30 buyers will be new to the brand.
+
+The vehicle comes with wireless phone charging and USB-C ports in the cabin, as well as a 12-volt power outlet. It also comes with a vertically mounted 12.3-inch tablet-style infotainment screen, which is based on Google's system. It is compatible with Apple Car Play and Android Auto. The EX30's rivals include the Jeep Avenger EV and Kia Niro EV.
+
+While the model is currently produced in China, the EX30 will be produced at Volvo's existing factory in Ghent, Belgium from 2025 to increase its global production output in line with the company's plan to produce cars closer to its market.
+
+
+
+== Powertrain ==
+The EX30 is available as rear-wheel drive or all-wheel drive, with an electric motor on each axle. The fastest version of the EX30 reaches 0 to 100&nbsp;km/h (0 to 62&nbsp;mph) in 3.6&nbsp;seconds, and has a top speed of 180&nbsp;km/h (112&nbsp;mph).
+
+===Specifications===
+{|class="wikitable" style="font-size:75%;text-align:center;"
+|+Electric details
+! {{diagonal split header|Model|Spec}}
+! Production
+! Battery
+! Battery capacity
+!DC Charging
+! Range (WLTP)
+! Range (EPA)
+! Power
+! Torque
+! {{cvt|0|–|100|km/h|mph}}
+! Top speed
+! Drive
+|-
+|'''Single Motor'''
+| rowspan=3 | 2023 – present
+| Lithium iron phosphate
+| 49 kWh (usable)
+51 kWh (gross)
+|134 kW
+| {{cvt|344|km}}
+| {{cvt|322|km}}
+| rowspan=2 | '''US:''' {{cvt|185|kW|hp}} 
+'''TR:''' {{cvt|150|kW|hp}} 
+
+'''Global''': {{cvt|200|kW|hp}}
+
+'''SG (Cat A)''':
+
+110 kW (147 hp) 
+| rowspan=2 | {{cvt|343|Nm|lbft}}
+| US: 6.0s
+TR: 6.5s
+Global: 5.7s
+
+SG: 8.6s
+| rowspan=3 |  {{cvt|180|km/h|mi/h}}
+| rowspan=2 |  RWD
+|-
+|'''Single Motor Extended Range'''
+| rowspan=2 |  Nickel manganese cobalt
+| rowspan=2 | 64 kWh (usable)
+69 kWh (gross)
+| rowspan="2" |150 kW
+| {{cvt|480|km}}
+| {{Convert|414-420|km|mi|abbr=unit}}
+| 5.3 s
+SG: 8.3s
+|-
+
+|'''Twin Motor Performance'''
+| {{cvt|460|km}}
+| {{cvt|427|km}}
+| {{cvt|315|kW|hp}}
+| {{cvt|543|Nm|lbft}}
+| 3.6 s
+| AWD
+|}
+
+== Trim levels ==
+In Europe, three trim levels are offered from launch. '''Plus''' models come with automatic LED headlights, adaptive cruise control, two-zone climate control and heated front seats. '''Ultra''' models receive additional equipment, such as a 360 degree camera, park pilot assist, optional 20 inch wheels (19 inch as standard) and a panoramic sunroof. Another model called '''Core''' was later released, providing only a single motor (with the option of an Extended Range Battery) like the Plus, but with 18 inch alloys, while still keeping all safety features intact. 
+
+A budget-oriented trim known as '''Essential''' cuts down much of the features such as the aero-rim inserts, the option of an Extended Range battery, frunk, and also driving-comfort features such as the adaptive cruise control.
+
+The '''Cross Country''' is off-road styled, and has raised ground clearance, which as of yet does not have a confirmed release date.
+
+== Safety ==
+Park Pilot Assist finds available parking spaces, displays them on the center display for the driver to select, and maneuvers the vehicle into the space. The EX30 uses rear radars to detect cyclists and scooters approaching from behind and will sound an alert if an occupant tries to open a door. During highway driving, Pilot Assist will change lanes, maintain a safe distance from adjacent vehicles while passing, and adapt the vehicle's speed to maintain its distance from the vehicle directly in front. It will prompt the driver to steer and escalate warnings if it detects an unresponsive driver. No response will make the car come to a complete stop. Collision avoidance systems help avoid or mitigate collisions with other vehicles, pedestrians, and cyclists. It will send audio and visual alerts and brake pulse warnings when a collision risk is detected. If a collision is imminent or the car turns into the path of an oncoming vehicle at an intersection, the car will brake automatically. In some situations, it will steer the car to avoid a collision.
+
+An infrared sensor on the steering column tracks the driver's eye and head movements, including how fast or slow they blink and how often. This, along with a front-facing camera watching the road to detect erratic driving and a sensor monitoring the steering wheel can detect distracted or drowsy drivers and the car will prompt the driver saying it's time to focus or take a break.{{Euro NCAP|year=2024|reference=https://www.euroncap.com/en/results/volvo/ex30/53420|reference_name=Volvo EX30 2024 Results|overall_stars=5|adult_points=35.3|description=Volvo EX30 Plus, Single Motor Extended Range|adult_percent=88|child_points=42|child_percent=85|pedestrian_points=50.4|pedestrian_percent=79|safety_percent=80|safety_points=14.4}}
+
+== Sustainable materials ==
+Volvo EX30 uses various recycled metals across the car, including steel and aluminium. Several recycled and renewable materials are used to upholster the seats, dashboard and doors, including old denim, flax and a wool blend that also contains approximately 70% recycled polyester.  Around one fifth of the plastics are recycled.
+
+The Volvo EX30 has the smallest carbon footprint of any electric Volvo to date, less than half of the petrol XC40.
+
+== Awards ==
+* Carwow Car of the Year 2024
+* Electrifying.com Car of the Year 2024
+* Top Gear Eco Warrior of the Year 2023
+* {{ill|Autosprint|it}} best city car 2024
+* {{ill|Auto Gids|nl}} Best electric city car 2023
+* The Sun Car of the Year 2023
+* Popular Science Best of What's New 2023
+* The Sunday Times Small SUV of the Year award
+* World Urban Car 2024 by World Car Awards
+* Red Dot 'Best of the Best' Design Award in 2024
+* Auto Express  'Small Premium SUV of the Year' in 2025
+<!--* And others.-->
+
+==Sales==
+{| class="wikitable"
+!Year
+!China
+|-
+|2024
+|25,278
+|}
