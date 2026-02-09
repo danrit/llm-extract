@@ -2,8 +2,8 @@
 
 ## Context
 
-```html
-{raw_data}
+```{doc_language}
+{doc_content}
 ```
 
 ## Instruction
@@ -14,30 +14,30 @@ The document given as a context beforehand is the wikipedia article for this Ele
 
 The 5 electrical vehicle attributes to extract are:
  - battery capacity (kWh): the value in the text is always followed by "kWh". Usually below 200 kWh.
- - range WLTP (km)
- - power (kW)
  - charging power AC (kW)
  - charging power DC (kW)
+ - power (kW)
+ - range WLTP (km)
 
-If there are multiple values for an attribute, prefer the one most applicable for the given configuration, country and year. If no information is available use the generic value for the vehicle.
+If there are multiple values for an attribute, prefer the one most applicable for the given criteria of configuration, country and year. If no contextual information is available about the criteria use the generic value for the vehicle.
 
-If the text does not contain the information or is ambiguous for an attribute, return "unknown" for that attribute.
+If the text does not contain the information or is ambiguous for an attribute, return "null" for that attribute.
 
 Format the data in the response as a JSON Markdown fenced code block with the following keys:
  - battery_capacity
- - range
- - power
  - charging_AC
  - charging_DC
+ - power
+ - range
 
 Example output:
 
 ```json
 {{
-  "battery_capacity": "70.5",
-  "range": "570",
-  "power": "210",
-  "charging_ac": "11",
-  "charging_dc": "150"
+  "battery_capacity": 70.5,
+  "charging_ac": 11,
+  "charging_dc": 150,
+  "power": 210,
+  "range": 570
 }}
 ```

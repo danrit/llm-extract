@@ -1,21 +1,11 @@
-raw_data:
+#
+datasets:
   default:
-    filename: data/examples/raw/data.jsonl
+    filename: data/example1-ev/dataset.jsonl
   default_lite:
-    filename: data/examples/raw/data.lite.jsonl
+    filename: data/example1-ev/dataset.lite.jsonl
 
-prompts:
-  default:
-    template:
-      filename: data/examples/LLM-PROMPT-EV.md
-      variables:
-        - raw_data
-        - full_model_name
-        - configuration_name
-        - country_name
-        - year
-
-data_schema:
+data_schemas:
   default:
     # Definition of the expected structured data format (JSON Schema)
     type: object
@@ -40,28 +30,59 @@ data_schema:
         type:
           - number
           - "null"
+#      useless_field:
+#        type:
+#          - string
+#          - "null"
     required:
       - battery_capacity
       - charging_ac
       - charging_dc
       - power
       - range
+#      - useless_field
+
+document_sets:
+  html:
+    filename: data/example1-ev/documents/doc.html.jsonl
+  wikitext:
+    filename: data/example1-ev/documents/doc.wikitext.jsonl
+
+prompts:
+  default:
+    template:
+      filename: data/example1-ev/LLM-PROMPT-EV.md
+      variables:
+        - document
+        - full_model_name
+        - configuration_name
+        - country_name
+        - year
 
 models:
-  "DeepSeek-R1-Distill-Llama-8B-Q4_0":
-    backend: simonw_llm
+  deepseek-r1:
+    backend: ollama_ollama
+    name: deepseek-r1:8b-llama-distill-q4_K_M
     options:
-      temperature: temp
-      max_predict_tokens: max_tokens
+      temperature: temperature
+      max_predict_tokens: num_predict
       top_p: top_p
+#  deepseek-r1-gpt4all:
+#    backend: simonw_llm
+#    name: DeepSeek-R1-Distill-Llama-8B-Q4_0
+#    options:
+#      temperature: temp
+#      max_predict_tokens: max_tokens
+#      top_p: top_p
   gemma3:
     backend: ollama_ollama
     options:
       temperature: temperature
       max_predict_tokens: num_predict
       top_p: top_p
-  "gpt-oss":
+  gpt-oss:
     backend: ollama_ollama
+    name: gpt-oss
     options:
       temperature: temperature
       max_predict_tokens: num_predict
@@ -69,14 +90,18 @@ models:
 
 scenarios:
   default:
-    raw_data: default_lite
+    name: EV attributes extraction from lite wiki article
+    dataset: default_lite
     data_schema: default
     variations:
+      document_sets:
+#        - html
+        - wikitext
       prompts:
         - default
       models:
-#        - DeepSeek-R1-Distill-Llama-8B-Q4_0
-        - gemma3
+        - deepseek-r1
+#        - gemma3
 #        - gpt-oss
       model_options:
         temperature:
@@ -87,4 +112,4 @@ scenarios:
 #          - 0.1
 #          - 0.5
           - 0.95
-      runs: 1
+      repeats: 2

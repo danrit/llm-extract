@@ -1,4 +1,7 @@
+import logging
 import ollama
+
+logger = logging.getLogger(__name__)
 
 def ollama_ollama_call(prompt: str, model_name: str, model_options: dict) -> dict:
     response = ollama.generate(

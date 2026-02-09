@@ -4,9 +4,13 @@
 # JetBrains IDE
 .idea/
 
-# exclude big data files
+# exclude (big) data files, but keep example
 /data/*
-!/data/examples/
+!/data/example1-ev/
+/data/example1-ev/*
+!/data/example1-ev/documents
+!/data/example1-ev/*.*
+!/data/examples/*.*
 
 # Python
 # Byte-compiled / optimized / DLL files

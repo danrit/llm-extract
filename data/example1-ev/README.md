@@ -6,18 +6,18 @@ Example use case: Extracting 5 electrical vehicle attributes (battery capacity, 
 
 Overview of this example configuration set in `config.yaml` file:
 
-- Declare the data files (see Data section below)
+- Declare the dataset file and the documents (see Data section below)
 - Declare the prompt file (see Prompt section below)
 - Declare the data schema to extract (5 EV attributes)
 - Define a few LLM available (Deepseek-R1, gemma3 and opt-oss)
-- Specify the scenario to run: a combination of data file, prompt file, schema and LLMs + some run parameters
+- Specify the scenario to run: specify the dataset and the schema to use and a combination variable parameters: documents, prompts, models + some run parameters
 
 ## Data
 
-The `raw` folder contains:
-- 12 wikitext files, downloaded from Wikipedia AND simplified following the [wikitext steps below](#prepare-wiki-article-to-lite-html) _Intermediate step, not strictly necessary_
-- 12 HTML files, generated from the simplified wikitext files following the [HTML steps below](#steps-on-the-html-source) _Final input for the LLM_
-- data.jsonl: the list of 12 EV models with appropriate parameters for the prompt generation (including the path to the HTML file)
+- dataset.jsonl: the list of 12 EV models with appropriate parameters for the prompt generation
+- The `documents` folder contains:
+    - 12 wikitext files, downloaded from Wikipedia AND simplified following the [wikitext steps below](#prepare-wiki-article-to-lite-html) _Intermediate step, not strictly necessary_ + `doc.wikitext.jsonl` which is a manifest of the 12 wikitext files
+    - 12 HTML files, generated from the simplified wikitext files following the [HTML steps below](#steps-on-the-html-source) _Final input for the LLM_ + `doc.html.jsonl` which is a manifest of the 12 HTML files
 
 ### Choice of 12 EVs
 
@@ -103,4 +103,4 @@ Note: Contains light styling for table readability.
 
 ## Prompt
 
-The prompt is in `data/examples/LLM-PROMPT-EV.md` and contains instructions to extract the 5 attributes from the HTML content of the wiki article.
+The prompt is in `data/example1-ev/LLM-PROMPT-EV.md` and contains instructions to extract the 5 attributes from the content of the wiki article.

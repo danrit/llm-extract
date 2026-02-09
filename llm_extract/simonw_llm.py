@@ -1,4 +1,8 @@
 import llm
+import logging
+
+logger = logging.getLogger(__name__)
+
 
 def simonw_llm_call(prompt: str, model_name: str, model_options: dict) -> dict:
     # STUB

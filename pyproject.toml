@@ -3,6 +3,7 @@ name = "llm-extract"
 version = "0.0.1"
 description = "A tool to extract structured data from text using LLMs."
 dependencies = [
+    "jsonschema",
     "llm",
     "llm-gpt4all",
     "llm-ollama",
