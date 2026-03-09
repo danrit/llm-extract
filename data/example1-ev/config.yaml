@@ -51,9 +51,10 @@ document_sets:
 prompts:
   default:
     template:
-      filename: data/example1-ev/LLM-PROMPT-EV.md
-      variables:
-        - document
+      filename: data/example1-ev/PROMPT.default.md
+      variables: # unused...
+        - doc_language
+        - doc_content
         - full_model_name
         - configuration_name
         - country_name
