@@ -1,0 +1,6 @@
+{"id": "transform1", "cloudinary_url_component": "c_auto,w_320/f_webp/q_auto:good"}
+{"id": "transform2", "cloudinary_url_component": "e_brightness:35/a_180"}
+{"id": "transform3", "cloudinary_url_component": "co_rgb:EE0F0F,l_text:Helvetica_100_normal_left:lorem%2520ipsum/fl_layer_apply,fl_no_overflow,g_south,y_30"}
+{"id": "transform4", "cloudinary_url_component": "c_thumb,g_auto,h_320,w_320,z_1"}
+{"id": "transform5", "cloudinary_url_component": "c_fill,h_360,w_640/e_saturation:-100"}
+{"id": "transform6", "cloudinary_url_component": "b_rgb:333B4C,c_pad,h_640,w_640"}
